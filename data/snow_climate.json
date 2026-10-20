@@ -1,0 +1,4083 @@
+{
+"modis": [
+{
+"glacier_snow_frac": 0.9806004190537113,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7653888454335182,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9666265185962151,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7152894635719735,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9682741328754179,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7001292930857442,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9497777408820927,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6209423131068419,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.8940008449014831,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.4381006348191422,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.792388463934603,
+"m": 6,
+"n_days": 15,
+"observed_frac": 1,
+"snow_frac": 0.2589380345236164,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.6190621305594608,
+"m": 7,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.1733949160640877,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.6034590553795072,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16314060450206028,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.7704285063173969,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2554679788746375,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.8948714918801965,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3994843640627501,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9834703315952295,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.744872854416671,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9916444264577906,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8209905067925543,
+"y": 2001
+},
+{
+"glacier_snow_frac": 0.9897220816698427,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8304541423363776,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.988493397773389,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8243361127099138,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.9839461239706974,
+"m": 3,
+"n_days": 23,
+"observed_frac": 1,
+"snow_frac": 0.7831990074386112,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.9761989623854318,
+"m": 4,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.729268278005394,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.9470937834002431,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6011243622691145,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.8774160853888583,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3970470010724015,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.7255596476955977,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.22489116738166237,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.6284281403550923,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.17257906749083832,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.7985216559136465,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2658776453809701,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.8254663403185667,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.29386210136469904,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.8852434718314096,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4409546065710457,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.9429195484817637,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6689038527838397,
+"y": 2002
+},
+{
+"glacier_snow_frac": 0.9684908633366409,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7009415645694123,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9840790545536932,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8037097096857524,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9822708317913571,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8235750033281282,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.976740711021967,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.758475483502013,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9637236836420274,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6865591263126305,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.893417738246205,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4673506502625979,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.7284627515131809,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2291672624656985,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.6573380009791494,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.18460661145539367,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.7329527891532321,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2303709101611737,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9304216210155114,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5028136696902864,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9311825655153477,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.589707736924589,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9562816398062409,
+"m": 12,
+"n_days": 24,
+"observed_frac": 1,
+"snow_frac": 0.6987639930413445,
+"y": 2003
+},
+{
+"glacier_snow_frac": 0.9882004468768396,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8605495060186561,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9906699278391233,
+"m": 2,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.8484195404347438,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9799537043451829,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7640709635245592,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9689019907994297,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6845076845568803,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9428107156970796,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5917621305264309,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.8819602757282643,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4093966026889727,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.7745433322005862,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.25127589464135897,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.7254923879313656,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.21526426645968644,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.7565621701124233,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2326941634018788,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9376778564519328,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5300244198733984,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9473751512550915,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5733016945690405,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9700957314920009,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7170496157708494,
+"y": 2004
+},
+{
+"glacier_snow_frac": 0.9945870598068681,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.9288747634841666,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9921084159140457,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.9066783456470316,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9885747792900715,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8249649652997816,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9819093808012891,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7794077209743745,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9530702683556768,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6403581198795263,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9124658676719445,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5053529263110453,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.7556414782513466,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.26709276011649874,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.6851610618421218,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.19613960998322208,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.7446890838521101,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2184600894892563,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.8778714022418661,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.40593618018782607,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9366594745020034,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5718465394836159,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.954266059513272,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6858859314159995,
+"y": 2005
+},
+{
+"glacier_snow_frac": 0.9753711550380254,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8685563016081368,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9860796301140061,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8412588672530427,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9889969467435074,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8031836689048139,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9786541486020671,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7472553727458215,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9141272765225579,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5362309778121588,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.842713189977564,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.348091927513118,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.7163028165998357,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2135524684541424,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.5730922155575224,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1555612762638283,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.7690277028826702,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.25053376573691555,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.8325445695275878,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3302650442134954,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9212920279938234,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.522042943995259,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9837858553260304,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8320317500634539,
+"y": 2006
+},
+{
+"glacier_snow_frac": 0.9724603480595262,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7720402459603818,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.9729296212568395,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7526049444737615,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.9822222790944097,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7961876898930337,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.9473317846073471,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6467898468648783,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.8807360876938675,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.4519904710937982,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.8136736315185501,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.31541504267947384,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.6899853592976569,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.198987195467769,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.5839215663282348,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.15691314608242934,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.7183112952107705,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.22556460579394724,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.8639401947135086,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3195801793588173,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.8477771197268772,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2936729244211658,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.9467294851571197,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6532327253763326,
+"y": 2007
+},
+{
+"glacier_snow_frac": 0.9731830526603257,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8375912402065198,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9809654731900797,
+"m": 2,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.8342796873684651,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.964899882229478,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7184796637464381,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9623042955821609,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.671828396593666,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9141166757157555,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5261190791876924,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.7684317604519537,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.27389099330042266,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.6375504311328297,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.17226305473471643,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.6035868416120459,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16359770628968817,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.8166160246108305,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.291952390827134,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.8870959601901951,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3669782835244411,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9327983785001717,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.531182174783443,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9593667322431573,
+"m": 12,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.7268598966627413,
+"y": 2008
+},
+{
+"glacier_snow_frac": 0.9956953723005794,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.9234354190140158,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9950934535260925,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.9039113986367546,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9904703682763208,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8462336183448878,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9825366555139724,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7710530366604168,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9534852834146819,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.648850504180662,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.8930903365188588,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.48871310875879376,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.8164624403528705,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3314656395151429,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.7422196242923248,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.22279830916682025,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.7843482992566237,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.251786916396691,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.8557050834807591,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3657993712436163,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9416939229473086,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6037743511968413,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.987111925553655,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8228830325165656,
+"y": 2009
+},
+{
+"glacier_snow_frac": 0.9824661203506108,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7922477696394098,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9802158611488576,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8278779345618498,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9844792086526608,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.797733994954799,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9803187623520367,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7305989726367264,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9629041140246878,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6538851146134773,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9219505507722008,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5328597231914446,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.8475988495562509,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3743360189668731,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.688522384137277,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.21321382652374915,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.7611954801275647,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.27829196186422167,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.8656667058373858,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3484960035659077,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.8791121909545021,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.36658139257162065,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.8589101303608292,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.34112699334935453,
+"y": 2010
+},
+{
+"glacier_snow_frac": 0.9761298221013474,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7530756540372242,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.9840342400683962,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8771738899315378,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.9814026631660474,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.805918104451827,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.9703365731333705,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7211319432620091,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.91015680638086,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5268284850005309,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.8098632998525062,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.30568813832901615,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.6694745670213863,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1945919068613515,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.6486107020972017,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1793587786145547,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.7296877253793805,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.24222042196998833,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.8825389728762719,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.40045367705533197,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.9629613446020762,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6448741384268958,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.951319481143784,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6591122871208729,
+"y": 2011
+},
+{
+"glacier_snow_frac": 0.950522670317732,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7343469724545361,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9626817822482205,
+"m": 2,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.776172222959785,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9781044631300262,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7905117759318037,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9653637117788264,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7016755119360834,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.940008068060576,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5935931187248474,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.8834089562051589,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4570746243679133,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.7702048271453674,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2783758868884191,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.6258284791243751,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.17494662796758764,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.7292749169408201,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2518865871822599,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9119291095877757,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.46581801267828965,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9272344245865279,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.524721583164701,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9798601772998096,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7845292704252406,
+"y": 2012
+},
+{
+"glacier_snow_frac": 0.9858028005427012,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8461405638680273,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9868625560043494,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8626099414099576,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9759192440386336,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7763239053416715,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9556280994459394,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6640360669523145,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9471743596643775,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.614449921009221,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.8810554061039413,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.43375917642046824,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.736635004562062,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.22618155802875023,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.5852220178456827,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.15851675903801893,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.7352285229931407,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.21353651546495267,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.7737766503494965,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.257207120428564,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9490160241866834,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6176956607580433,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9527473577325598,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6660417875401325,
+"y": 2013
+},
+{
+"glacier_snow_frac": 0.9779546683901184,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8196200328094337,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.9725013463368073,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7807218938013869,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.982224805208632,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7866866873322188,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.9765412514007465,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7467593067216014,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.938959030846156,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6005869126672161,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.8847284147803725,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.44275993099362865,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.741160452097928,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.23784318808783042,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.6749308500862264,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2007293366633722,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.8312455956249494,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3125819965492799,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.8792452360723669,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.40374921658011725,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.9500031976296323,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.627377598640525,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.9603772582422699,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.660245112845791,
+"y": 2014
+},
+{
+"glacier_snow_frac": 0.9757919793908094,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.728310497868414,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9750114132201769,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7761642237082695,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9838266104325301,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7984846209594445,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9773648536325994,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7345677057057604,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9447319269689232,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6046720046656946,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.8942877178459344,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4604259750366144,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.7704567811932159,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2795619714089092,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.6037684002973567,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16327341504511508,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.7854739947956144,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.29330091934496405,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9143703915091328,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.474749254111081,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.986497741260452,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.766995017518356,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9864286724007713,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7887578111733198,
+"y": 2015
+},
+{
+"glacier_snow_frac": 0.9941314214373338,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8245866575683571,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.9837789418869132,
+"m": 2,
+"n_days": 20,
+"observed_frac": 1,
+"snow_frac": 0.7715089718281717,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.9773761907487853,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7442442568351367,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.981193515032309,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7418058204269953,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.9417996852279931,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5949282472866514,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.8258590747560116,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.35691152381144103,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.7055732590650104,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.20829410499282452,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.5601812948266308,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.15222715747728258,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.7679485812731636,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.23124431144269053,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.808985035489962,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.27767043166415517,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.8411486578914437,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3245321673190648,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.945708301157309,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6048290014976402,
+"y": 2016
+},
+{
+"glacier_snow_frac": 0.9641607736947408,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7491848824409063,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.9925896849388645,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8932460385609019,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.990800946300452,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8304476969980137,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.9861386558824107,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7828185643773765,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.9405227492915782,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.581642896327779,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.8635568817146392,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.38540233790467043,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.6497650097547804,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.19190173239396563,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.595553022149613,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16419804890953657,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.7438165923399794,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.22238327120982604,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.8221434449076498,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2867796753422806,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.8270584897966295,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3366853640377629,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.9629710446618228,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6950949783883966,
+"y": 2017
+},
+{
+"glacier_snow_frac": 0.9818190196153515,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7880040615305516,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9713813755746009,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7374988608791591,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9816354362890193,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.754974763699789,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9619305294025291,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6645829860312982,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9296473600346821,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5438647626186309,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.8658670979586376,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3847981793307833,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.7304378576698867,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.22651001124475315,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.604824388993726,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16161890531078804,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.7202599274291837,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.2257718537819493,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9136091442536158,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5262302116981706,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9857100762891994,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7867435913790729,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.982082771041663,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7661542151625336,
+"y": 2018
+},
+{
+"glacier_snow_frac": 0.9946699765859005,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.908801111503076,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9951547408847826,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.9225370930548877,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9895106503104825,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8485756339495686,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9758478936283768,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7321759721278648,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9433788788302842,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5962387310639922,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9062529828283692,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.49272732222282967,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.8061491962531888,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.31052408241679025,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.634237607593175,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1735303392840304,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.645029100163272,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.1710926801119277,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9132754675833917,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.4268995782576977,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9767465797526641,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7575687819281526,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9931526103703517,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8395476628703417,
+"y": 2019
+},
+{
+"glacier_snow_frac": 0.9976724261394329,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.9399194212199005,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9927199153323712,
+"m": 2,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.8795224899825459,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9838812206953433,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7882557367350751,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9725373396152303,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7192308830920758,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9318455888528975,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5737196828225319,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.8649905479533964,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4005606920851628,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.7509443986255763,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.24354757591463658,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.6137060080204101,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.16966421462215964,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.7192883574700463,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.21919431243479157,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.788395606896827,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2648822081627994,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.8865203689323841,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.4584644771248919,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9869674039991795,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8230081848909435,
+"y": 2020
+},
+{
+"glacier_snow_frac": 0.9849962069511776,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8345710831038657,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9759875506661359,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7654708777564626,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.980999762345117,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7675257925120907,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9788300147285743,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7466697615576153,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9377119243714905,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5929014727683414,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.8660036869041836,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.40087463389843203,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.7319210481112083,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.2335297915597199,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.6212408214684245,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.17422926903882166,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.7078045207535515,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.20001502248145725,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.851396242465186,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.42353902175533104,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9450773534233575,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.600262630449597,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9628759002118032,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6719871069901606,
+"y": 2021
+},
+{
+"glacier_snow_frac": 0.9959944284866074,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.913582983525486,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9916713672196059,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8643022318289154,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9790592525218785,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7464308175318556,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9443549798804866,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.6032610748120266,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.8677763762074276,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.4039448131177793,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.8345641220247066,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.32224698997957063,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.658448699085586,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1860671395286804,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.5125931473137352,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1381524809448302,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.6925115004233322,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.20557979732116388,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.8630746437289304,
+"m": 10,
+"n_days": 19,
+"observed_frac": 1,
+"snow_frac": 0.3600945910004935,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9846425309660788,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7429021452915279,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9696624108275687,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6945656054349016,
+"y": 2022
+},
+{
+"glacier_snow_frac": 0.9842484910026336,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8233423620417815,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9851813205838451,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8391044124603936,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9776216240315755,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.756789247030186,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9686301694872474,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7041121312384652,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9505116436122204,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.6253799963273812,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.8843101427264644,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.450200940972821,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.7471663302663748,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.25380591613566417,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.6383829380311333,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.18090503194352484,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.6791064836050549,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.1989320655730691,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9220046959340574,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.4720630112287935,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9350108802546219,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5367158251933605,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9468306654681972,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5964183167367798,
+"y": 2023
+},
+{
+"glacier_snow_frac": 0.9381794876783651,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5459085430186094,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9692811331189415,
+"m": 2,
+"n_days": 29,
+"observed_frac": 1,
+"snow_frac": 0.766713210738236,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9768373724210208,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7972175517284642,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9677471640025874,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7116609143427814,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9220480290199032,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5760046822667247,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.8035751281551415,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.3526762211731663,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.6487435539401032,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.19659621356887266,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.5262988789167682,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.13770898870107157,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.6715149077109858,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.18686624311335856,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.8132004185817574,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3073330579777159,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9446263573822906,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.5891670561340139,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9705492986633688,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7260910669450096,
+"y": 2024
+},
+{
+"glacier_snow_frac": 0.9723736265166157,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7769278759650533,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9705138158935219,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.7581233708775126,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9883475599941911,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8187214866636342,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9703433435442688,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7120005969136586,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9046842222493701,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.47909672545135734,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.7685728869539552,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.28151015848756983,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.5418622538296138,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.14266626338332852,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.5285860128485876,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.1338200864417701,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.589039708876375,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.15302732348543058,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.8597585788213257,
+"m": 10,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.3786012356309314,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.8296094620614922,
+"m": 11,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.37708570526216456,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9288932003539552,
+"m": 12,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5793643712731511,
+"y": 2025
+},
+{
+"glacier_snow_frac": 0.9836110939375657,
+"m": 1,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.8564751355803835,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.9798159982205059,
+"m": 2,
+"n_days": 28,
+"observed_frac": 1,
+"snow_frac": 0.8086870662763505,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.981665020889162,
+"m": 3,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.7680109668317869,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.9720106396433557,
+"m": 4,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.7035579228593092,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.9437563529710878,
+"m": 5,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.5864663130342996,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.8776848801527231,
+"m": 6,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.41191783972052526,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.6935249364130783,
+"m": 7,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.22069247438844508,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.5501247297235388,
+"m": 8,
+"n_days": 31,
+"observed_frac": 1,
+"snow_frac": 0.14758856193506983,
+"y": 2026
+},
+{
+"glacier_snow_frac": 0.7037503307262302,
+"m": 9,
+"n_days": 30,
+"observed_frac": 1,
+"snow_frac": 0.21522427137619085,
+"y": 2026
+}
+],
+"era5": [
+{
+"pr_mm": 73.46334590794069,
+"t": "2000-01",
+"t2m_c": -19.891906601721615
+},
+{
+"pr_mm": 40.28065438095013,
+"t": "2000-02",
+"t2m_c": -22.082434643854924
+},
+{
+"pr_mm": 83.98155437955579,
+"t": "2000-03",
+"t2m_c": -16.888101223046817
+},
+{
+"pr_mm": 29.301660471185205,
+"t": "2000-04",
+"t2m_c": -11.211458696908267
+},
+{
+"pr_mm": 44.68951380915736,
+"t": "2000-05",
+"t2m_c": -2.979203769427386
+},
+{
+"pr_mm": 80.13599055040342,
+"t": "2000-06",
+"t2m_c": 1.80888965654799
+},
+{
+"pr_mm": 112.91986180793708,
+"t": "2000-07",
+"t2m_c": 6.892158905812892
+},
+{
+"pr_mm": 90.68104841403276,
+"t": "2000-08",
+"t2m_c": 5.192488795730981
+},
+{
+"pr_mm": 63.3213967640608,
+"t": "2000-09",
+"t2m_c": 0.17316876787117508
+},
+{
+"pr_mm": 50.14266757159918,
+"t": "2000-10",
+"t2m_c": -8.846908692245222
+},
+{
+"pr_mm": 65.13422721489027,
+"t": "2000-11",
+"t2m_c": -15.64239229510224
+},
+{
+"pr_mm": 58.75330924756801,
+"t": "2000-12",
+"t2m_c": -20.054390712239268
+},
+{
+"pr_mm": 38.04644885339115,
+"t": "2001-01",
+"t2m_c": -22.320684632658583
+},
+{
+"pr_mm": 54.366872120323414,
+"t": "2001-02",
+"t2m_c": -19.5607069711223
+},
+{
+"pr_mm": 46.91055414689619,
+"t": "2001-03",
+"t2m_c": -17.167249457701615
+},
+{
+"pr_mm": 44.59889845452716,
+"t": "2001-04",
+"t2m_c": -9.806308110330974
+},
+{
+"pr_mm": 23.611774701417634,
+"t": "2001-05",
+"t2m_c": -4.161050541578504
+},
+{
+"pr_mm": 63.082022235087635,
+"t": "2001-06",
+"t2m_c": 3.073705665660327
+},
+{
+"pr_mm": 107.70690163718612,
+"t": "2001-07",
+"t2m_c": 7.1633697784403125
+},
+{
+"pr_mm": 72.3123767599961,
+"t": "2001-08",
+"t2m_c": 5.301623565620787
+},
+{
+"pr_mm": 67.6416951284587,
+"t": "2001-09",
+"t2m_c": -1.8809746122291244
+},
+{
+"pr_mm": 46.89307690890493,
+"t": "2001-10",
+"t2m_c": -8.237668311657956
+},
+{
+"pr_mm": 57.17385458894018,
+"t": "2001-11",
+"t2m_c": -16.44950659986705
+},
+{
+"pr_mm": 61.03152081815624,
+"t": "2001-12",
+"t2m_c": -18.963019703546422
+},
+{
+"pr_mm": 50.05732681007829,
+"t": "2002-01",
+"t2m_c": -22.44187061168543
+},
+{
+"pr_mm": 63.805859822954694,
+"t": "2002-02",
+"t2m_c": -19.259900974120598
+},
+{
+"pr_mm": 74.012010585018,
+"t": "2002-03",
+"t2m_c": -14.890199511219976
+},
+{
+"pr_mm": 117.45990485172605,
+"t": "2002-04",
+"t2m_c": -9.744373439286676
+},
+{
+"pr_mm": 49.85998835498756,
+"t": "2002-05",
+"t2m_c": -5.800620737926408
+},
+{
+"pr_mm": 65.31064581700389,
+"t": "2002-06",
+"t2m_c": -0.1667335989521348
+},
+{
+"pr_mm": 86.07115245498514,
+"t": "2002-07",
+"t2m_c": 4.207856260776509
+},
+{
+"pr_mm": 71.69662734033564,
+"t": "2002-08",
+"t2m_c": 6.864219191301743
+},
+{
+"pr_mm": 65.69402011329318,
+"t": "2002-09",
+"t2m_c": -1.49692517355777
+},
+{
+"pr_mm": 16.51497086689937,
+"t": "2002-10",
+"t2m_c": -6.225861375537988
+},
+{
+"pr_mm": 28.339060054616613,
+"t": "2002-11",
+"t2m_c": -13.817508023512119
+},
+{
+"pr_mm": 82.8739787376162,
+"t": "2002-12",
+"t2m_c": -18.22269347690812
+},
+{
+"pr_mm": 41.806549569928016,
+"t": "2003-01",
+"t2m_c": -19.664649905232295
+},
+{
+"pr_mm": 149.92891547516942,
+"t": "2003-02",
+"t2m_c": -17.936952519383055
+},
+{
+"pr_mm": 124.13211699547678,
+"t": "2003-03",
+"t2m_c": -15.225266001336934
+},
+{
+"pr_mm": 142.23897893143874,
+"t": "2003-04",
+"t2m_c": -9.97695807202939
+},
+{
+"pr_mm": 97.66151543415093,
+"t": "2003-05",
+"t2m_c": -8.635267107206914
+},
+{
+"pr_mm": 27.629518150239843,
+"t": "2003-06",
+"t2m_c": -1.7834282251561149
+},
+{
+"pr_mm": 45.51521491145889,
+"t": "2003-07",
+"t2m_c": 6.106031784828588
+},
+{
+"pr_mm": 89.79889479144157,
+"t": "2003-08",
+"t2m_c": 5.396398185765577
+},
+{
+"pr_mm": 104.86908854099957,
+"t": "2003-09",
+"t2m_c": 0.6075248035959362
+},
+{
+"pr_mm": 28.51679929886673,
+"t": "2003-10",
+"t2m_c": -12.243375437187694
+},
+{
+"pr_mm": 58.86161998119397,
+"t": "2003-11",
+"t2m_c": -16.913387397199017
+},
+{
+"pr_mm": 68.6770535685118,
+"t": "2003-12",
+"t2m_c": -19.388278119903333
+},
+{
+"pr_mm": 77.81928863114935,
+"t": "2004-01",
+"t2m_c": -19.608107515826134
+},
+{
+"pr_mm": 74.33852083805382,
+"t": "2004-02",
+"t2m_c": -18.962528192308213
+},
+{
+"pr_mm": 74.76768228433748,
+"t": "2004-03",
+"t2m_c": -13.209260668235288
+},
+{
+"pr_mm": 121.17861320732304,
+"t": "2004-04",
+"t2m_c": -8.712436354930219
+},
+{
+"pr_mm": 52.457357146389946,
+"t": "2004-05",
+"t2m_c": -6.473003769370791
+},
+{
+"pr_mm": 39.40683658532889,
+"t": "2004-06",
+"t2m_c": -0.8645697870697404
+},
+{
+"pr_mm": 64.80395392763374,
+"t": "2004-07",
+"t2m_c": 4.380090030791564
+},
+{
+"pr_mm": 89.13235674470364,
+"t": "2004-08",
+"t2m_c": 4.675913246175867
+},
+{
+"pr_mm": 48.47895460474921,
+"t": "2004-09",
+"t2m_c": 0.2887681243511224
+},
+{
+"pr_mm": 79.34483503464723,
+"t": "2004-10",
+"t2m_c": -11.375722467262108
+},
+{
+"pr_mm": 40.81339666941899,
+"t": "2004-11",
+"t2m_c": -16.677454187737396
+},
+{
+"pr_mm": 104.61505132196989,
+"t": "2004-12",
+"t2m_c": -17.18812331676827
+},
+{
+"pr_mm": 69.95301432946799,
+"t": "2005-01",
+"t2m_c": -21.26530051754719
+},
+{
+"pr_mm": 142.69184672112786,
+"t": "2005-02",
+"t2m_c": -17.43849898460374
+},
+{
+"pr_mm": 104.95807370075468,
+"t": "2005-03",
+"t2m_c": -12.70939783974518
+},
+{
+"pr_mm": 117.94144917604282,
+"t": "2005-04",
+"t2m_c": -11.815426425943485
+},
+{
+"pr_mm": 85.72071306453815,
+"t": "2005-05",
+"t2m_c": -6.410409715066635
+},
+{
+"pr_mm": 20.018568455157926,
+"t": "2005-06",
+"t2m_c": -1.54686580492114
+},
+{
+"pr_mm": 87.26204505869204,
+"t": "2005-07",
+"t2m_c": 5.4956359629558165
+},
+{
+"pr_mm": 77.14940091356527,
+"t": "2005-08",
+"t2m_c": 5.008840286445491
+},
+{
+"pr_mm": 49.9174745593383,
+"t": "2005-09",
+"t2m_c": 1.8135177080778249
+},
+{
+"pr_mm": 50.93090693022832,
+"t": "2005-10",
+"t2m_c": -9.85050995783672
+},
+{
+"pr_mm": 42.250853315809096,
+"t": "2005-11",
+"t2m_c": -17.95149036125295
+},
+{
+"pr_mm": 25.493564538851306,
+"t": "2005-12",
+"t2m_c": -21.622758098994666
+},
+{
+"pr_mm": 148.38081068937097,
+"t": "2006-01",
+"t2m_c": -18.983298102182147
+},
+{
+"pr_mm": 131.55147452285087,
+"t": "2006-02",
+"t2m_c": -13.783010939468056
+},
+{
+"pr_mm": 55.19074564075808,
+"t": "2006-03",
+"t2m_c": -14.991091743726429
+},
+{
+"pr_mm": 86.83629013046733,
+"t": "2006-04",
+"t2m_c": -11.428559478778936
+},
+{
+"pr_mm": 29.590595453875373,
+"t": "2006-05",
+"t2m_c": -2.911055802637975
+},
+{
+"pr_mm": 84.04070170119383,
+"t": "2006-06",
+"t2m_c": 0.8204588827563271
+},
+{
+"pr_mm": 80.76918880722053,
+"t": "2006-07",
+"t2m_c": 6.674763957548862
+},
+{
+"pr_mm": 110.32836163072405,
+"t": "2006-08",
+"t2m_c": 6.614941654530469
+},
+{
+"pr_mm": 72.91159201738772,
+"t": "2006-09",
+"t2m_c": -0.053666973278438945
+},
+{
+"pr_mm": 31.48559587140813,
+"t": "2006-10",
+"t2m_c": -7.024737214618256
+},
+{
+"pr_mm": 74.28391997391006,
+"t": "2006-11",
+"t2m_c": -14.649160592666135
+},
+{
+"pr_mm": 93.55873303440549,
+"t": "2006-12",
+"t2m_c": -19.211706428298214
+},
+{
+"pr_mm": 25.968592826262444,
+"t": "2007-01",
+"t2m_c": -22.356872731411613
+},
+{
+"pr_mm": 71.39869954076656,
+"t": "2007-02",
+"t2m_c": -16.935463443780918
+},
+{
+"pr_mm": 137.53751968138948,
+"t": "2007-03",
+"t2m_c": -14.660543510582727
+},
+{
+"pr_mm": 33.47373680209468,
+"t": "2007-04",
+"t2m_c": -8.347198319177096
+},
+{
+"pr_mm": 64.11219508187283,
+"t": "2007-05",
+"t2m_c": -3.124960674350632
+},
+{
+"pr_mm": 84.68597036782255,
+"t": "2007-06",
+"t2m_c": 2.9429904925317487
+},
+{
+"pr_mm": 90.0013806761658,
+"t": "2007-07",
+"t2m_c": 6.0424278865946235
+},
+{
+"pr_mm": 80.08832060864357,
+"t": "2007-08",
+"t2m_c": 6.166622377454246
+},
+{
+"pr_mm": 78.45446563097855,
+"t": "2007-09",
+"t2m_c": 0.8056084387453097
+},
+{
+"pr_mm": 32.15867360159271,
+"t": "2007-10",
+"t2m_c": -10.248432805912216
+},
+{
+"pr_mm": 7.889997674023017,
+"t": "2007-11",
+"t2m_c": -13.744159768409077
+},
+{
+"pr_mm": 70.74281773192463,
+"t": "2007-12",
+"t2m_c": -19.49358796387594
+},
+{
+"pr_mm": 125.3706906213439,
+"t": "2008-01",
+"t2m_c": -21.256051472924355
+},
+{
+"pr_mm": 70.75534662795107,
+"t": "2008-02",
+"t2m_c": -20.278680576548112
+},
+{
+"pr_mm": 32.79352649069104,
+"t": "2008-03",
+"t2m_c": -14.785246334048168
+},
+{
+"pr_mm": 87.44178150626743,
+"t": "2008-04",
+"t2m_c": -9.574773578364102
+},
+{
+"pr_mm": 30.632506679254075,
+"t": "2008-05",
+"t2m_c": -4.498366333605475
+},
+{
+"pr_mm": 40.43902463652861,
+"t": "2008-06",
+"t2m_c": 4.279022619092245
+},
+{
+"pr_mm": 63.63960352749321,
+"t": "2008-07",
+"t2m_c": 7.3292511821092035
+},
+{
+"pr_mm": 90.50063333664043,
+"t": "2008-08",
+"t2m_c": 5.9365966338572775
+},
+{
+"pr_mm": 68.7524097576784,
+"t": "2008-09",
+"t2m_c": -1.887375410352547
+},
+{
+"pr_mm": 48.36906324762866,
+"t": "2008-10",
+"t2m_c": -8.929197835322327
+},
+{
+"pr_mm": 34.60438518769461,
+"t": "2008-11",
+"t2m_c": -15.578659504856944
+},
+{
+"pr_mm": 116.01254378042672,
+"t": "2008-12",
+"t2m_c": -18.611007691332702
+},
+{
+"pr_mm": 118.18211174664509,
+"t": "2009-01",
+"t2m_c": -18.40378046778946
+},
+{
+"pr_mm": 128.99651081136471,
+"t": "2009-02",
+"t2m_c": -17.34627885616635
+},
+{
+"pr_mm": 95.24559449214381,
+"t": "2009-03",
+"t2m_c": -14.01066073135138
+},
+{
+"pr_mm": 127.31490968564907,
+"t": "2009-04",
+"t2m_c": -9.722886655625018
+},
+{
+"pr_mm": 48.044313325032554,
+"t": "2009-05",
+"t2m_c": -6.985818460493874
+},
+{
+"pr_mm": 75.85449660379021,
+"t": "2009-06",
+"t2m_c": -2.5748537925106803
+},
+{
+"pr_mm": 60.46609154667352,
+"t": "2009-07",
+"t2m_c": 3.0662456047018054
+},
+{
+"pr_mm": 50.99645007020597,
+"t": "2009-08",
+"t2m_c": 5.919386001879047
+},
+{
+"pr_mm": 58.805940960074835,
+"t": "2009-09",
+"t2m_c": -1.1993070645067405
+},
+{
+"pr_mm": 40.300506230117065,
+"t": "2009-10",
+"t2m_c": -8.265856783397169
+},
+{
+"pr_mm": 59.365996160803775,
+"t": "2009-11",
+"t2m_c": -16.594374585030494
+},
+{
+"pr_mm": 62.39101625517748,
+"t": "2009-12",
+"t2m_c": -19.785849933271606
+},
+{
+"pr_mm": 53.59952695289074,
+"t": "2010-01",
+"t2m_c": -18.975486975088813
+},
+{
+"pr_mm": 165.05179479756418,
+"t": "2010-02",
+"t2m_c": -16.374847769752535
+},
+{
+"pr_mm": 81.63388297318552,
+"t": "2010-03",
+"t2m_c": -12.202573386937331
+},
+{
+"pr_mm": 117.0700841221244,
+"t": "2010-04",
+"t2m_c": -8.596661256312359
+},
+{
+"pr_mm": 148.38688108038195,
+"t": "2010-05",
+"t2m_c": -4.808467907432373
+},
+{
+"pr_mm": 53.75877833293669,
+"t": "2010-06",
+"t2m_c": -3.1652260229974445
+},
+{
+"pr_mm": 120.1221712286628,
+"t": "2010-07",
+"t2m_c": 2.5428232904471315
+},
+{
+"pr_mm": 100.64652559591677,
+"t": "2010-08",
+"t2m_c": 6.088656499602962
+},
+{
+"pr_mm": 94.96591724833348,
+"t": "2010-09",
+"t2m_c": -0.5096930743281405
+},
+{
+"pr_mm": 16.16671174955343,
+"t": "2010-10",
+"t2m_c": -8.972390648615885
+},
+{
+"pr_mm": 13.279499184945609,
+"t": "2010-11",
+"t2m_c": -13.800430180849787
+},
+{
+"pr_mm": 22.141760106661653,
+"t": "2010-12",
+"t2m_c": -18.46041040824275
+},
+{
+"pr_mm": 43.94616337234117,
+"t": "2011-01",
+"t2m_c": -22.29374165284517
+},
+{
+"pr_mm": 171.0106014006115,
+"t": "2011-02",
+"t2m_c": -17.324252150512223
+},
+{
+"pr_mm": 89.22428916804103,
+"t": "2011-03",
+"t2m_c": -14.868996196699015
+},
+{
+"pr_mm": 62.90406199347097,
+"t": "2011-04",
+"t2m_c": -11.52880376046079
+},
+{
+"pr_mm": 30.495212942312204,
+"t": "2011-05",
+"t2m_c": -5.28240503602342
+},
+{
+"pr_mm": 25.871848316980852,
+"t": "2011-06",
+"t2m_c": 0.03381751758837481
+},
+{
+"pr_mm": 92.52296981977034,
+"t": "2011-07",
+"t2m_c": 5.28890316490947
+},
+{
+"pr_mm": 68.78654106664081,
+"t": "2011-08",
+"t2m_c": 6.437045879014249
+},
+{
+"pr_mm": 89.00876462788837,
+"t": "2011-09",
+"t2m_c": 0.8860989816525944
+},
+{
+"pr_mm": 56.38176660540054,
+"t": "2011-10",
+"t2m_c": -8.380244014128095
+},
+{
+"pr_mm": 58.24451071600502,
+"t": "2011-11",
+"t2m_c": -14.424144289917251
+},
+{
+"pr_mm": 43.98972038675034,
+"t": "2011-12",
+"t2m_c": -20.227774406166475
+},
+{
+"pr_mm": 50.61776677414352,
+"t": "2012-01",
+"t2m_c": -23.38375299189616
+},
+{
+"pr_mm": 103.58834451267091,
+"t": "2012-02",
+"t2m_c": -18.984522843519898
+},
+{
+"pr_mm": 140.83765225511547,
+"t": "2012-03",
+"t2m_c": -14.486544793554287
+},
+{
+"pr_mm": 52.328590575805634,
+"t": "2012-04",
+"t2m_c": -10.709553251480088
+},
+{
+"pr_mm": 60.1676841162463,
+"t": "2012-05",
+"t2m_c": -6.911397532554531
+},
+{
+"pr_mm": 34.26078852350013,
+"t": "2012-06",
+"t2m_c": -2.6838001692829607
+},
+{
+"pr_mm": 47.891554516068,
+"t": "2012-07",
+"t2m_c": 3.573743025233398
+},
+{
+"pr_mm": 83.14412227367822,
+"t": "2012-08",
+"t2m_c": 6.207552067841277
+},
+{
+"pr_mm": 119.99915046831224,
+"t": "2012-09",
+"t2m_c": 0.4554219294395807
+},
+{
+"pr_mm": 45.68697161426525,
+"t": "2012-10",
+"t2m_c": -10.756483878992412
+},
+{
+"pr_mm": 37.66007511690402,
+"t": "2012-11",
+"t2m_c": -16.664745671988385
+},
+{
+"pr_mm": 73.27286169099544,
+"t": "2012-12",
+"t2m_c": -19.841552151604105
+},
+{
+"pr_mm": 41.25281087742618,
+"t": "2013-01",
+"t2m_c": -23.127268832446248
+},
+{
+"pr_mm": 104.24186873512247,
+"t": "2013-02",
+"t2m_c": -18.00801721659741
+},
+{
+"pr_mm": 62.947618629774894,
+"t": "2013-03",
+"t2m_c": -14.090934636179668
+},
+{
+"pr_mm": 72.78799258101851,
+"t": "2013-04",
+"t2m_c": -10.513828206503547
+},
+{
+"pr_mm": 89.38980449647808,
+"t": "2013-05",
+"t2m_c": -6.709698895128213
+},
+{
+"pr_mm": 47.46795481934781,
+"t": "2013-06",
+"t2m_c": -0.48500280120958905
+},
+{
+"pr_mm": 58.61749024512013,
+"t": "2013-07",
+"t2m_c": 4.883473460366531
+},
+{
+"pr_mm": 124.80166391090094,
+"t": "2013-08",
+"t2m_c": 6.1736875977678665
+},
+{
+"pr_mm": 42.12233725148696,
+"t": "2013-09",
+"t2m_c": 1.3178112047037303
+},
+{
+"pr_mm": 41.33008763865691,
+"t": "2013-10",
+"t2m_c": -5.543397162184647
+},
+{
+"pr_mm": 25.11682788446036,
+"t": "2013-11",
+"t2m_c": -18.23014655145934
+},
+{
+"pr_mm": 47.9455559587593,
+"t": "2013-12",
+"t2m_c": -19.97310277721806
+},
+{
+"pr_mm": 42.1067209550808,
+"t": "2014-01",
+"t2m_c": -21.285376304491706
+},
+{
+"pr_mm": 86.54795824653496,
+"t": "2014-02",
+"t2m_c": -19.188644642949612
+},
+{
+"pr_mm": 148.81370783114963,
+"t": "2014-03",
+"t2m_c": -14.055781434863093
+},
+{
+"pr_mm": 82.73511305115521,
+"t": "2014-04",
+"t2m_c": -10.996707024588943
+},
+{
+"pr_mm": 74.24601222967826,
+"t": "2014-05",
+"t2m_c": -5.745751808826412
+},
+{
+"pr_mm": 31.523304640133116,
+"t": "2014-06",
+"t2m_c": -1.5892294410377303
+},
+{
+"pr_mm": 62.46530109755759,
+"t": "2014-07",
+"t2m_c": 4.592867694976974
+},
+{
+"pr_mm": 92.00077861447643,
+"t": "2014-08",
+"t2m_c": 4.3144308960590365
+},
+{
+"pr_mm": 105.41057631066481,
+"t": "2014-09",
+"t2m_c": -0.47529668854002693
+},
+{
+"pr_mm": 61.041389053846444,
+"t": "2014-10",
+"t2m_c": -9.14451249792603
+},
+{
+"pr_mm": 50.250936005611045,
+"t": "2014-11",
+"t2m_c": -17.063317989651807
+},
+{
+"pr_mm": 32.92241405385622,
+"t": "2014-12",
+"t2m_c": -20.430361590981875
+},
+{
+"pr_mm": 53.47621821669298,
+"t": "2015-01",
+"t2m_c": -20.803942780611038
+},
+{
+"pr_mm": 119.5666053731945,
+"t": "2015-02",
+"t2m_c": -16.95700792604265
+},
+{
+"pr_mm": 113.05803725773833,
+"t": "2015-03",
+"t2m_c": -13.891816195592753
+},
+{
+"pr_mm": 90.72521920854383,
+"t": "2015-04",
+"t2m_c": -10.639283445109925
+},
+{
+"pr_mm": 61.53916681131949,
+"t": "2015-05",
+"t2m_c": -5.911369944413195
+},
+{
+"pr_mm": 65.58961737248073,
+"t": "2015-06",
+"t2m_c": -2.0051285422948126
+},
+{
+"pr_mm": 75.00841577317509,
+"t": "2015-07",
+"t2m_c": 6.223605329365739
+},
+{
+"pr_mm": 85.59206568793192,
+"t": "2015-08",
+"t2m_c": 5.621876566547485
+},
+{
+"pr_mm": 91.87145343811613,
+"t": "2015-09",
+"t2m_c": -1.7671585713827085
+},
+{
+"pr_mm": 66.25507207969424,
+"t": "2015-10",
+"t2m_c": -9.262759945721598
+},
+{
+"pr_mm": 91.62723607050384,
+"t": "2015-11",
+"t2m_c": -14.913186364519447
+},
+{
+"pr_mm": 55.0819905056043,
+"t": "2015-12",
+"t2m_c": -20.647418695774064
+},
+{
+"pr_mm": 53.32377960199713,
+"t": "2016-01",
+"t2m_c": -20.673884327516987
+},
+{
+"pr_mm": 39.39520948558696,
+"t": "2016-02",
+"t2m_c": -19.588808536953422
+},
+{
+"pr_mm": 143.18920035959263,
+"t": "2016-03",
+"t2m_c": -13.208252372057586
+},
+{
+"pr_mm": 128.2059991490004,
+"t": "2016-04",
+"t2m_c": -9.197815065285624
+},
+{
+"pr_mm": 49.82422117436797,
+"t": "2016-05",
+"t2m_c": -4.825236948019096
+},
+{
+"pr_mm": 48.86715498371603,
+"t": "2016-06",
+"t2m_c": 1.562321660254156
+},
+{
+"pr_mm": 90.98504166826162,
+"t": "2016-07",
+"t2m_c": 5.893515978122707
+},
+{
+"pr_mm": 105.5663340819666,
+"t": "2016-08",
+"t2m_c": 5.464385854719296
+},
+{
+"pr_mm": 46.85268421094149,
+"t": "2016-09",
+"t2m_c": 1.3018538767086625
+},
+{
+"pr_mm": 45.461377777721154,
+"t": "2016-10",
+"t2m_c": -7.1496669060953195
+},
+{
+"pr_mm": 71.66469516570695,
+"t": "2016-11",
+"t2m_c": -13.458573216227649
+},
+{
+"pr_mm": 26.275881410688854,
+"t": "2016-12",
+"t2m_c": -18.299343405758805
+},
+{
+"pr_mm": 130.77002398481153,
+"t": "2017-01",
+"t2m_c": -19.737151015355835
+},
+{
+"pr_mm": 124.41151061343479,
+"t": "2017-02",
+"t2m_c": -17.145632715067904
+},
+{
+"pr_mm": 103.82507341703153,
+"t": "2017-03",
+"t2m_c": -14.575475661450184
+},
+{
+"pr_mm": 127.17817551279335,
+"t": "2017-04",
+"t2m_c": -9.306942291010387
+},
+{
+"pr_mm": 24.37253110215404,
+"t": "2017-05",
+"t2m_c": -4.434384524528127
+},
+{
+"pr_mm": 78.16440112890243,
+"t": "2017-06",
+"t2m_c": 1.8224625961089487
+},
+{
+"pr_mm": 85.07161504886818,
+"t": "2017-07",
+"t2m_c": 7.022637969103641
+},
+{
+"pr_mm": 102.4198048162635,
+"t": "2017-08",
+"t2m_c": 5.617990900531652
+},
+{
+"pr_mm": 68.70291657158016,
+"t": "2017-09",
+"t2m_c": 0.6327256710783331
+},
+{
+"pr_mm": 40.19451676448878,
+"t": "2017-10",
+"t2m_c": -7.180814922913157
+},
+{
+"pr_mm": 25.05711619928366,
+"t": "2017-11",
+"t2m_c": -13.798533145465228
+},
+{
+"pr_mm": 74.59812031514475,
+"t": "2017-12",
+"t2m_c": -18.042560255488723
+},
+{
+"pr_mm": 42.0670883239018,
+"t": "2018-01",
+"t2m_c": -21.104758519204694
+},
+{
+"pr_mm": 59.27980092077905,
+"t": "2018-02",
+"t2m_c": -18.244635055526572
+},
+{
+"pr_mm": 79.41134615501709,
+"t": "2018-03",
+"t2m_c": -14.391541744200879
+},
+{
+"pr_mm": 92.47535970211594,
+"t": "2018-04",
+"t2m_c": -9.512258185256485
+},
+{
+"pr_mm": 81.33965800660015,
+"t": "2018-05",
+"t2m_c": -6.349928495693803
+},
+{
+"pr_mm": 60.440210842584385,
+"t": "2018-06",
+"t2m_c": -0.1232424315049343
+},
+{
+"pr_mm": 83.0498531089288,
+"t": "2018-07",
+"t2m_c": 5.4198263161310365
+},
+{
+"pr_mm": 58.28758187124392,
+"t": "2018-08",
+"t2m_c": 7.426945350765095
+},
+{
+"pr_mm": 57.91263388805274,
+"t": "2018-09",
+"t2m_c": 0.9555369635474449
+},
+{
+"pr_mm": 62.33522563442936,
+"t": "2018-10",
+"t2m_c": -11.18669309167484
+},
+{
+"pr_mm": 72.8536823615055,
+"t": "2018-11",
+"t2m_c": -16.271366776376112
+},
+{
+"pr_mm": 24.85427267222741,
+"t": "2018-12",
+"t2m_c": -22.024048531721945
+},
+{
+"pr_mm": 91.06826306569222,
+"t": "2019-01",
+"t2m_c": -21.165395759821678
+},
+{
+"pr_mm": 112.08666132660797,
+"t": "2019-02",
+"t2m_c": -17.759616400078613
+},
+{
+"pr_mm": 71.05803135286774,
+"t": "2019-03",
+"t2m_c": -15.528503227319504
+},
+{
+"pr_mm": 91.98883230268846,
+"t": "2019-04",
+"t2m_c": -7.842779452662569
+},
+{
+"pr_mm": 55.43909942812668,
+"t": "2019-05",
+"t2m_c": -6.718259323078996
+},
+{
+"pr_mm": 95.91922399808043,
+"t": "2019-06",
+"t2m_c": -3.4329820979378383
+},
+{
+"pr_mm": 31.98355173026317,
+"t": "2019-07",
+"t2m_c": 3.979471401312594
+},
+{
+"pr_mm": 74.39601955642945,
+"t": "2019-08",
+"t2m_c": 6.260816285038743
+},
+{
+"pr_mm": 35.74805461617274,
+"t": "2019-09",
+"t2m_c": 3.1583361811879627
+},
+{
+"pr_mm": 52.94293786087705,
+"t": "2019-10",
+"t2m_c": -9.029536862600992
+},
+{
+"pr_mm": 127.79188262308797,
+"t": "2019-11",
+"t2m_c": -14.54058555146645
+},
+{
+"pr_mm": 34.52751406524614,
+"t": "2019-12",
+"t2m_c": -21.967374983487588
+},
+{
+"pr_mm": 96.6102003920576,
+"t": "2020-01",
+"t2m_c": -21.32626600248804
+},
+{
+"pr_mm": 46.53105322088327,
+"t": "2020-02",
+"t2m_c": -19.382441427029846
+},
+{
+"pr_mm": 80.21263704074624,
+"t": "2020-03",
+"t2m_c": -13.950360089391268
+},
+{
+"pr_mm": 67.49138300108572,
+"t": "2020-04",
+"t2m_c": -10.229357627275704
+},
+{
+"pr_mm": 59.4169878812553,
+"t": "2020-05",
+"t2m_c": -4.949171673709259
+},
+{
+"pr_mm": 63.5853187514004,
+"t": "2020-06",
+"t2m_c": 0.15692803808639155
+},
+{
+"pr_mm": 94.65964140786997,
+"t": "2020-07",
+"t2m_c": 4.703009221332309
+},
+{
+"pr_mm": 100.27104942797857,
+"t": "2020-08",
+"t2m_c": 7.1004887107709465
+},
+{
+"pr_mm": 92.041320530678,
+"t": "2020-09",
+"t2m_c": 0.462830438948572
+},
+{
+"pr_mm": 35.26584273928431,
+"t": "2020-10",
+"t2m_c": -7.2941321683334195
+},
+{
+"pr_mm": 83.33912468383203,
+"t": "2020-11",
+"t2m_c": -15.358912239147912
+},
+{
+"pr_mm": 66.89088390398261,
+"t": "2020-12",
+"t2m_c": -20.527990642729293
+},
+{
+"pr_mm": 43.78422122372497,
+"t": "2021-01",
+"t2m_c": -22.517352363580756
+},
+{
+"pr_mm": 77.35282488284932,
+"t": "2021-02",
+"t2m_c": -16.851659470475965
+},
+{
+"pr_mm": 135.5882320384611,
+"t": "2021-03",
+"t2m_c": -13.28946536847161
+},
+{
+"pr_mm": 76.71708527121068,
+"t": "2021-04",
+"t2m_c": -12.302541982954722
+},
+{
+"pr_mm": 31.539028496824308,
+"t": "2021-05",
+"t2m_c": -4.9877747805306285
+},
+{
+"pr_mm": 71.88260092517886,
+"t": "2021-06",
+"t2m_c": 0.9405555180856595
+},
+{
+"pr_mm": 111.7460169058118,
+"t": "2021-07",
+"t2m_c": 6.557301294924855
+},
+{
+"pr_mm": 93.5339218497299,
+"t": "2021-08",
+"t2m_c": 5.113762055600148
+},
+{
+"pr_mm": 38.00382486810441,
+"t": "2021-09",
+"t2m_c": 2.934746865052773
+},
+{
+"pr_mm": 79.71348089523903,
+"t": "2021-10",
+"t2m_c": -8.368129310682548
+},
+{
+"pr_mm": 21.443809133767715,
+"t": "2021-11",
+"t2m_c": -17.94424204781808
+},
+{
+"pr_mm": 24.743233868539257,
+"t": "2021-12",
+"t2m_c": -21.164723411098265
+},
+{
+"pr_mm": 75.84805822469973,
+"t": "2022-01",
+"t2m_c": -20.057020637890417
+},
+{
+"pr_mm": 55.075490385729644,
+"t": "2022-02",
+"t2m_c": -19.290336912507485
+},
+{
+"pr_mm": 77.63431065940125,
+"t": "2022-03",
+"t2m_c": -12.25564356432892
+},
+{
+"pr_mm": 40.225629059655105,
+"t": "2022-04",
+"t2m_c": -9.02228708036688
+},
+{
+"pr_mm": 53.40359522588271,
+"t": "2022-05",
+"t2m_c": -3.112338257331146
+},
+{
+"pr_mm": 94.86124302995923,
+"t": "2022-06",
+"t2m_c": 0.7395254031027889
+},
+{
+"pr_mm": 103.86342938948258,
+"t": "2022-07",
+"t2m_c": 8.071577581149825
+},
+{
+"pr_mm": 149.1173013241469,
+"t": "2022-08",
+"t2m_c": 6.665437061006173
+},
+{
+"pr_mm": 48.24803913796478,
+"t": "2022-09",
+"t2m_c": 1.7927885223607518
+},
+{
+"pr_mm": 49.58824083211316,
+"t": "2022-10",
+"t2m_c": -9.483046989935303
+},
+{
+"pr_mm": 67.32739622546424,
+"t": "2022-11",
+"t2m_c": -17.058080744509255
+},
+{
+"pr_mm": 35.73375356885115,
+"t": "2022-12",
+"t2m_c": -20.15700536614682
+},
+{
+"pr_mm": 103.1374044335485,
+"t": "2023-01",
+"t2m_c": -20.743382670905618
+},
+{
+"pr_mm": 96.82023160807117,
+"t": "2023-02",
+"t2m_c": -16.49787178577759
+},
+{
+"pr_mm": 33.25860004348422,
+"t": "2023-03",
+"t2m_c": -13.746415766709276
+},
+{
+"pr_mm": 104.38103593227244,
+"t": "2023-04",
+"t2m_c": -10.480522528589006
+},
+{
+"pr_mm": 65.00279785935207,
+"t": "2023-05",
+"t2m_c": -7.257455972337539
+},
+{
+"pr_mm": 41.917504941812666,
+"t": "2023-06",
+"t2m_c": -0.8216494120289894
+},
+{
+"pr_mm": 116.3964522667374,
+"t": "2023-07",
+"t2m_c": 5.208451368569115
+},
+{
+"pr_mm": 74.67268440211154,
+"t": "2023-08",
+"t2m_c": 6.615913904710851
+},
+{
+"pr_mm": 67.80438282834695,
+"t": "2023-09",
+"t2m_c": 1.8758123612161626
+},
+{
+"pr_mm": 51.92946422472237,
+"t": "2023-10",
+"t2m_c": -10.240444842197519
+},
+{
+"pr_mm": 25.54868212133282,
+"t": "2023-11",
+"t2m_c": -15.570783334097769
+},
+{
+"pr_mm": 14.138952175850175,
+"t": "2023-12",
+"t2m_c": -19.716398648094696
+},
+{
+"pr_mm": 35.61470907838568,
+"t": "2024-01",
+"t2m_c": -19.406092328582105
+},
+{
+"pr_mm": 76.16543449515343,
+"t": "2024-02",
+"t2m_c": -20.10714776019151
+},
+{
+"pr_mm": 119.57466192272625,
+"t": "2024-03",
+"t2m_c": -14.125237352834802
+},
+{
+"pr_mm": 109.20775835319179,
+"t": "2024-04",
+"t2m_c": -10.113474054825986
+},
+{
+"pr_mm": 32.45098611091822,
+"t": "2024-05",
+"t2m_c": -4.943494269022381
+},
+{
+"pr_mm": 64.20485344010537,
+"t": "2024-06",
+"t2m_c": 0.22307693430138897
+},
+{
+"pr_mm": 84.52004964826781,
+"t": "2024-07",
+"t2m_c": 7.248633280419654
+},
+{
+"pr_mm": 100.23967143035479,
+"t": "2024-08",
+"t2m_c": 8.01703723322396
+},
+{
+"pr_mm": 65.45218754732501,
+"t": "2024-09",
+"t2m_c": 2.7606616511003494
+},
+{
+"pr_mm": 50.56274928468293,
+"t": "2024-10",
+"t2m_c": -5.888681400044277
+},
+{
+"pr_mm": 57.20571194348562,
+"t": "2024-11",
+"t2m_c": -14.380033169306444
+},
+{
+"pr_mm": 24.98915771564595,
+"t": "2024-12",
+"t2m_c": -21.522454572458116
+},
+{
+"pr_mm": 84.41135354371052,
+"t": "2025-01",
+"t2m_c": -20.31317970726741
+},
+{
+"pr_mm": 78.48632278590276,
+"t": "2025-02",
+"t2m_c": -18.537864750670025
+},
+{
+"pr_mm": 104.60968299259822,
+"t": "2025-03",
+"t2m_c": -15.007195597638145
+},
+{
+"pr_mm": 67.0867503930299,
+"t": "2025-04",
+"t2m_c": -9.380200844510227
+},
+{
+"pr_mm": 52.46453632682846,
+"t": "2025-05",
+"t2m_c": -3.300305093374618
+},
+{
+"pr_mm": 62.81243939931072,
+"t": "2025-06",
+"t2m_c": 3.2207397666288102
+},
+{
+"pr_mm": 108.98061933517633,
+"t": "2025-07",
+"t2m_c": 8.561210701562175
+},
+{
+"pr_mm": 71.13751414830661,
+"t": "2025-08",
+"t2m_c": 7.473956113474287
+},
+{
+"pr_mm": 46.633931675321875,
+"t": "2025-09",
+"t2m_c": 3.590344264748069
+},
+{
+"pr_mm": 43.88630094793706,
+"t": "2025-10",
+"t2m_c": -9.856365083291223
+},
+{
+"pr_mm": 10.339799538053024,
+"t": "2025-11",
+"t2m_c": -15.901388804854832
+},
+{
+"pr_mm": 80.95284657124544,
+"t": "2025-12",
+"t2m_c": -15.526954322682627
+},
+{
+"pr_mm": 95.51681514989895,
+"t": "2026-01",
+"t2m_c": -20.135049780786346
+},
+{
+"pr_mm": 24.112262196906173,
+"t": "2026-02",
+"t2m_c": -18.472478155645007
+},
+{
+"pr_mm": 144.09589719258807,
+"t": "2026-03",
+"t2m_c": -11.006926026045221
+},
+{
+"pr_mm": 79.45872977462777,
+"t": "2026-04",
+"t2m_c": -8.769876319566151
+},
+{
+"pr_mm": 80.62638006936749,
+"t": "2026-05",
+"t2m_c": -4.904437750615784
+},
+{
+"pr_mm": 51.71893884267807,
+"t": "2026-06",
+"t2m_c": 0.46025632228270297
+},
+{
+"pr_mm": 121.84222429155386,
+"t": "2026-07",
+"t2m_c": 7.026173388823167
+},
+{
+"pr_mm": 66.61962158470749,
+"t": "2026-08",
+"t2m_c": 7.603551772689173
+},
+{
+"pr_mm": 73.07185947657767,
+"t": "2026-09",
+"t2m_c": 1.0536715576442361
+}
+]
+}

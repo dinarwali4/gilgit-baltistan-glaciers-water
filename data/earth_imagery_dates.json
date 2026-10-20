@@ -1,0 +1,164 @@
+[
+ {
+  "glacier": "baltoro",
+  "view": "overview",
+  "imagery_date": null,
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "baltoro",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "2010-03-20",
+  "provider": "Maxar Technologies / Landsat / Copernicus"
+ },
+ {
+  "glacier": "baltoro",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2016-11-01",
+  "provider": "Airbus / CNES"
+ },
+ {
+  "glacier": "baltoro",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2019-09-25",
+  "provider": "Airbus / CNES"
+ },
+ {
+  "glacier": "biafo",
+  "view": "overview",
+  "imagery_date": null,
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "biafo",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "2010-09-20",
+  "provider": "Maxar Technologies"
+ },
+ {
+  "glacier": "biafo",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2016-09-28",
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "biafo",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2019-09-25",
+  "provider": "Airbus"
+ },
+ {
+  "glacier": "hispar",
+  "view": "overview",
+  "imagery_date": null,
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "hispar",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "2010-11-03",
+  "provider": "Maxar Technologies / Landsat / Copernicus"
+ },
+ {
+  "glacier": "hispar",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2013-10-08",
+  "provider": "Airbus"
+ },
+ {
+  "glacier": "hispar",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2022-09-03",
+  "provider": "Maxar Technologies / Landsat / Copernicus"
+ },
+ {
+  "glacier": "batura",
+  "view": "overview",
+  "imagery_date": null,
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "batura",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "1985-12-31",
+  "provider": "Maxar Technologies / Landsat / Copernicus"
+ },
+ {
+  "glacier": "batura",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2016-09-28",
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "batura",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2022-05-27",
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "passu",
+  "view": "overview",
+  "imagery_date": "2025-11-01",
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "passu",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "2010-04-14",
+  "provider": "Maxar Technologies / Landsat / Copernicus"
+ },
+ {
+  "glacier": "passu",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2016-06-19",
+  "provider": "Airbus / Maxar Technologies / CNES"
+ },
+ {
+  "glacier": "passu",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2026-07-20",
+  "provider": "Airbus"
+ },
+ {
+  "glacier": "shisper",
+  "view": "overview",
+  "imagery_date": "2025-11-01",
+  "provider": "Airbus / Maxar Technologies"
+ },
+ {
+  "glacier": "shisper",
+  "view": "tongue",
+  "requested": "2010-12-31",
+  "imagery_date": "2010-11-09",
+  "provider": "see attribution on image"
+ },
+ {
+  "glacier": "shisper",
+  "view": "tongue",
+  "requested": "2016-12-31",
+  "imagery_date": "2016-06-19",
+  "provider": "CNES"
+ },
+ {
+  "glacier": "shisper",
+  "view": "tongue",
+  "requested": "2026-10-20",
+  "imagery_date": "2026-08-29",
+  "provider": "see attribution on image"
+ }
+]

@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Gilgit-Baltistan glacier loss, stored water and climate drivers 2000–2026. RegenX.eco Geospatial Computational Model, designed and prepared by Mr. Dinar Wali.">
+<title>Gilgit-Baltistan Glaciers &amp; Water</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: single reading column (~72ch) with full-width figures; tables scroll in their own box. */
+:root{
+  --bg:#f5f7f6; --surface:#ffffff; --ink:#1b2320; --muted:#59645f; --rule:#d5dcd8;
+  --loss:#b3471a; --gain:#2f78b5; --brand-text:#4A7526; --brand-fill:#76AD41;
+  --pass-bg:#e6f0dc; --fail-bg:#f8e3d9; --warn-bg:#f4ecd4;
+  --f-display:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121715; --surface:#1a201e; --ink:#e4ebe7; --muted:#9daaa4; --rule:#2d3632;
+  --loss:#ec8b5e; --gain:#7fb6e3; --brand-text:#9ccc6c; --pass-bg:#22311b; --fail-bg:#3a2219; --warn-bg:#352e18; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121715; --surface:#1a201e; --ink:#e4ebe7; --muted:#9daaa4; --rule:#2d3632;
+  --loss:#ec8b5e; --gain:#7fb6e3; --brand-text:#9ccc6c; --pass-bg:#22311b; --fail-bg:#3a2219; --warn-bg:#352e18; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:16px/1.6 var(--f-body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+.wrap{max-width:1080px;margin:0 auto}
+.col{max-width:72ch}
+header{padding-block:44px 28px;border-bottom:3px solid var(--brand-fill);display:grid;gap:10px}
+.eyebrow{font:500 12px/1.3 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font:600 clamp(30px,5vw,46px)/1.08 var(--f-display);margin:0;text-wrap:balance;letter-spacing:-.01em}
+.byline{font:500 14px/1.4 var(--f-body);color:var(--brand-text)}
+.lede{font-size:18px;color:var(--ink);max-width:68ch;margin:6px 0 0}
+h2{font:600 26px/1.2 var(--f-display);margin:48px 0 10px;text-wrap:balance}
+h3{font:600 18px/1.3 var(--f-display);margin:26px 0 6px}
+p{margin:0 0 12px}
+.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.loss{color:var(--loss)} .gain{color:var(--gain)}
+.tag{display:inline-block;font:500 11px/1 var(--f-mono);letter-spacing:.06em;text-transform:uppercase;padding:4px 6px;border-radius:3px;border:1px solid var(--rule);color:var(--muted);vertical-align:2px;margin-right:6px}
+.findings{display:grid;gap:14px;margin:22px 0 0;padding:0;list-style:none;counter-reset:f}
+.findings li{display:grid;grid-template-columns:2.2em 1fr;gap:4px;min-width:0}
+.findings li::before{counter-increment:f;content:counter(f);font:600 20px/1.3 var(--f-display);color:var(--brand-text)}
+.findings li > div{min-width:0}
+figure{margin:24px 0 8px;background:var(--surface);border:1px solid var(--rule);padding:10px;border-radius:2px}
+figure img{display:block;width:100%;height:auto;background:#fff}
+figcaption{font-size:14px;color:var(--muted);padding:10px 4px 2px;max-width:80ch}
+.tbl{overflow-x:auto;margin:14px 0 6px;border:1px solid var(--rule);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:640px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}
+th{font:600 12px/1.3 var(--f-body);color:var(--muted);text-transform:uppercase;letter-spacing:.05em;background:var(--bg)}
+td.r,th.r{text-align:right}
+tr:last-child td{border-bottom:none}
+.res{font:600 12px/1 var(--f-mono);padding:4px 7px;border-radius:3px;white-space:nowrap}
+.res.pass{background:var(--pass-bg);color:var(--brand-text)} .res.fail{background:var(--fail-bg);color:var(--loss)} .res.warn{background:var(--warn-bg);color:var(--ink)}
+.note{border-left:3px solid var(--rule);padding:4px 0 4px 14px;color:var(--muted);font-size:15px;margin:14px 0}
+.arith{font:14px/1.6 var(--f-mono);background:var(--surface);border:1px solid var(--rule);padding:12px 14px;overflow-x:auto;white-space:pre;margin:12px 0}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:16px}
+.grid2 figure{margin:0}
+footer{margin-top:56px;padding-top:16px;border-top:1px solid var(--rule);font-size:13px;color:var(--muted);display:grid;gap:6px}
+footer .credit{color:var(--brand-text);font-weight:600}
+a{color:var(--gain)} a:focus-visible{outline:2px solid var(--gain);outline-offset:2px}
+ul.plain{padding-left:1.1em;margin:0 0 12px} ul.plain li{margin-bottom:6px}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="eyebrow">Site assessment · Gilgit-Baltistan · Assessment date 20 Oct 2026</div>
+  <h1>Gilgit-Baltistan Glaciers &amp; Water 2000–2026</h1>
+  <div class="byline">RegenX.eco Geospatial Computational Model · Designed and prepared by Mr. Dinar Wali</div>
+  <p class="lede">What satellites measure about Gilgit-Baltistan's glaciers, snow and stored water: how fast the ice is going, what is driving it, and what that means for water downstream. Every figure comes from a named sensor and has been tested.</p>
+</header>
+
+<section class="col">
+<h2>Findings</h2>
+<ol class="findings">
+<li><div><span class="tag">Measured</span><b>Gilgit-Baltistan holds 8,633 glaciers covering 12,880 km²</b> (RGI 7.0, centre inside the GB polygon). That includes 2,142 km² in the Siachen sector, which India administers. Without that sector it is 10,738 km².</div></li>
+<li><div><span class="tag">Measured</span><b>Glacier loss has accelerated in every five-year period since 2000.</b> GB glaciers went from a slight gain of <span class="num gain">+0.043</span> m water equivalent per year (2000–04) to a loss of <span class="num loss">−0.120 m w.e./yr</span> (2015–19). That is <span class="num loss">−1.5 Gt</span> of water a year by 2015–19, against −0.53 Gt/yr averaged over 2000–2019. Excluding the Siachen sector the pattern is the same: +0.057 to −0.115 m w.e./yr.</div></li>
+<li><div><span class="tag">Measured</span><b>GB's total stored water fell sharply after 2023.</b> Three independent GRACE solutions agree to 2024: CSR −16.4, GFZ −17.3 and JPL −16.3 cm against 2004–09. Since 2018 the trend is <span class="num loss">−3.4 to −5.9 cm/yr</span> (GFZ to CSR), or <span class="num loss">−2.4 to −4.1 km³ a year</span>. The 2026 anomaly (Jan–Aug) is <span class="num loss">−32 to −50 cm</span>; the two solutions agree on direction but not on size.</div></li>
+<li><div><span class="tag">Measured</span><b>The drop is regional, not a satellite artefact.</b> Relative to 2019–23, storage fell 34 cm in GB, 30 cm in Ladakh and 24 cm in the Pamir. Western Kunlun (−3 cm) and central Tibet (0 cm) barely moved.</div></li>
+<li><div><span class="tag">Measured</span><b>Heat, not missing snowfall, is the driver.</b> Summer 2025 was <span class="num loss">+2.8 °C</span> above the 2001–20 mean, the warmest on record, and 2026 was +1.4 °C. Winter precipitation in 2025 and 2026 was near normal (−5 %). Across 26 years, warmer summers go with barer glaciers each August (<span class="num">r = −0.79</span>, p ≈ 10⁻⁶).</div></li>
+<li><div><span class="tag">Measured</span><b>Less snow survives on the ice each summer.</b> August snow cover on GB's glaciers is falling by <span class="num loss">0.4 percentage points a year</span> (p = 0.04), with the three barest Augusts in 2022, 2024 and 2025. On six key glaciers, Sentinel-2 records the lowest end-of-summer snow cover of its record (2017–19 onward) in 2025 or 2026 at all six. Seasonal snow cover over GB as a whole shows no trend.</div></li>
+<li><div><span class="tag">Modelled</span><b>Going forward, summers warm 1.3–1.7 °C by mid-century</b> (2041–60, SSP2-4.5 and SSP5-8.5 medians of 12 CMIP6 models), and +2.4 to +4.8 °C by 2081–2100. The models reproduce GB's observed warming since 2000. Their precipitation projections disagree, even on sign, before 2060.</div></li>
+</ol>
+<p class="note">What this means for water: today's meltwater includes ice that is not replaced. That deficit melt props up summer river flow while the glaciers shrink, and it ends when the ice runs out. The 2025–26 low shows how fast GB's storage buffer can be drawn down in a hot year. These are inferences from the measurements, not a flow forecast. River-gauge data was not part of this assessment.</p>
+</section>
+
+<section>
+<h2 class="col">The glaciers</h2>
+<figure><img src="maps/G1_glacier_elevation_change_2000_2019.png" alt="Map of glacier surface elevation change 2000–2019 across Gilgit-Baltistan" loading="lazy"><figcaption>Glacier surface elevation change 2000–2019 (Hugonnet et al. 2021) on RGI 7.0 outlines. Brown is thinning, blue thickening. Labels give each large glacier's 20-year mean.</figcaption></figure>
+<figure><img src="maps/G2_glacier_mass_balance_periods_districts.png" alt="Bar charts of glacier mass balance by five-year period and by district" loading="lazy"><figcaption>Mass balance by five-year period, and 2000–2019 by district. Shigar, Ghanche and Hunza hold most of the ice and most of the loss.</figcaption></figure>
+</section>
+
+<section>
+<h2 class="col">Stored water, measured from orbit</h2>
+<figure><img src="maps/G3_grace_gb_three_solutions.png" alt="Line chart of GB total water storage 2002–2026 from three GRACE solutions" loading="lazy"><figcaption>GB total water storage from three independent GRACE/GRACE-FO solutions, annual means.</figcaption></figure>
+<figure><img src="maps/G4_hma_anomaly_2025_26.png" alt="Map of 2025–26 storage anomaly across High Mountain Asia" loading="lazy"><figcaption>The 2025–26 anomaly across High Mountain Asia. It follows the Pamir–Karakoram–western Himalaya belt.</figcaption></figure>
+</section>
+
+<section>
+<h2 class="col">What is driving it</h2>
+<div class="grid2">
+<figure><img src="maps/G6_climate_era5.png" alt="Bar charts of summer temperature and winter precipitation anomalies" loading="lazy"><figcaption>ERA5-Land summer temperature and winter precipitation over GB.</figcaption></figure>
+<figure><img src="maps/G5_snow_cover_modis.png" alt="Bar charts of August glacier snow cover and spring snow cover anomalies" loading="lazy"><figcaption>MODIS August snow cover on the glaciers, and spring snow cover over GB.</figcaption></figure>
+</div>
+</section>
+
+<section>
+<h2 class="col">Six key glaciers up close</h2>
+<p class="col">Baltoro, Biafo and Hispar (Shigar and Nagar) and Batura, Passu and Shisper (Hunza) were followed with Sentinel-2 every end of summer since L2A coverage began, and imaged in Google Earth Pro at every high-resolution date available.</p>
+<figure><img src="maps/G8_s2_end_of_season_snow.png" alt="Small multiples of end-of-summer snow cover for six glaciers" loading="lazy"><figcaption>End-of-summer snow cover and snow-line altitude, Sentinel-2 L2A. Passu is clean ice, which NDSI cannot separate from snow, so its values are not interpretable.</figcaption></figure>
+<figure><img src="maps/G9a_s2_then_now.jpg" alt="Sentinel-2 true colour of Baltoro, Biafo and Hispar, earliest vs 2026" loading="lazy"><figcaption>Sentinel-2 true colour, first qualifying year vs 2026: Baltoro, Biafo, Hispar.</figcaption></figure>
+<figure><img src="maps/G9b_s2_then_now.jpg" alt="Sentinel-2 true colour of Batura, Shisper and Passu, earliest vs 2026" loading="lazy"><figcaption>Sentinel-2 true colour, 2019 vs 2026: Batura, Shisper, Passu.</figcaption></figure>
+<!--EARTH-START--><h3 class="col">High-resolution imagery in Google Earth Pro</h3>
+<p class="col">Each glacier tongue was captured top-down from the same camera at every high-resolution date Google Earth Pro holds (earlier imagery over GB is Landsat-grade only). The yellow line is the RGI 7.0 outline, drawn by Google Earth itself from KML; imagery dates were read from Earth's status bar.</p>
+<figure><img src="earth/shisper_tongue_then_now_annotated.jpg" alt="Shisper surged far beyond its 1997 outline: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Shisper surged far beyond its 1997 outline.</b> <b>2010 and 2016:</b> the tongue ends near its 1997 RGI outline (yellow). <b>2026:</b> ice has pushed well past that outline into the main valley — the 2018–20 surge. <b>Why it matters:</b> surging ice dammed the valley and caused the Hassanabad outburst floods, even while GB as a whole loses ice.</figcaption></figure>
+<figure><img src="earth/hispar_tongue_then_now_annotated.jpg" alt="Hispar: the fastest thinning of the six: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Hispar: the fastest thinning of the six.</b> <b>2010/2013/2022:</b> the terminus sits near its 1997 outline at all three dates; no clear length change at this scale. <b>Thinning:</b> +0.07 m/yr in 2000–04 became −0.86 m/yr in 2015–19, the fastest of the six key glaciers. <b>Snow:</b> end-of-summer snow fell from 75 % (2019) to 58 % (2026), the only statistically significant decline (p 0.03).</figcaption></figure>
+<figure><img src="earth/batura_tongue_then_now_annotated.jpg" alt="Batura: the tongue keeps its length, loses height: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Batura: the tongue keeps its length, loses height.</b> <b>1985/2016/2022:</b> the debris-covered tongue fills its 1997 outline to the end at every date; the earliest frame is a mixed Landsat and Maxar mosaic. <b>Thinning:</b> surface change went from +0.12 m/yr (2000–04) to −0.26 m/yr (2015–19). <b>Snow:</b> end-of-summer snow on the glacier fell from 71 % (2019) to 65 % (2026); 2025 was the lowest.</figcaption></figure>
+<figure><img src="earth/baltoro_tongue_then_now_annotated.jpg" alt="Baltoro: GB&#x27;s largest glacier holds near balance: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Baltoro: GB&#x27;s largest glacier holds near balance.</b> <b>2010/2016/2019:</b> the debris-covered snout sits on its 2002 outline at every date (2019 is Earth&#x27;s newest high-resolution tile here). <b>Near balance:</b> surface change −0.06 m/yr (2000–04) and −0.05 m/yr (2015–19) — the &#x27;Karakoram anomaly&#x27; at work. <b>But the snow line is rising:</b> end-of-summer snow fell from 81 % (2017) to 72 % (2026); the snow line rose to 4,800 m in 2025–26.</figcaption></figure>
+<figure><img src="earth/biafo_tongue_then_now_annotated.jpg" alt="Biafo: a debris-covered snout that hides its losses: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Biafo: a debris-covered snout that hides its losses.</b> <b>2010/2016/2019:</b> the rubble-covered terminus sits on its 1997 outline at every date (2019 is Earth&#x27;s newest high-resolution tile here). <b>Thinning:</b> +0.17 m/yr in 2000–04 turned to −0.17 m/yr in 2015–19: debris cover slows retreat, so loss shows up as lowering. <b>Snow:</b> end-of-summer snow on the glacier fell from 87 % (2017) to 79 % (2026), with 2025 the lowest.</figcaption></figure>
+<figure><img src="earth/passu_tongue_then_now_annotated.jpg" alt="Passu: the tongue holds its place but thins: Google Earth Pro imagery of the tongue at three dates" loading="lazy"><figcaption><b>Passu: the tongue holds its place but thins.</b> <b>2010, 2016, 2026:</b> the clean-ice tongue ends close to its 1997 outline at all three dates; no clear advance or retreat at this zoom. <b>Thinning:</b> surface change went from +0.02 m/yr (2000–04) to −0.42 m/yr (2015–19) — the ice is losing height, not length. <b>Caveat:</b> Passu is clean ice, so its Sentinel-2 snow percentages are not interpretable.</figcaption></figure>
+<!--EARTH-END-->
+<figure><img src="maps/G10_copernicus_browser_recent_scenes.jpg" alt="Copernicus Browser captures of recent Sentinel-2 scenes over the key glaciers" loading="lazy"><figcaption>The most recent clear scenes as seen in the Copernicus Browser (Aug–Oct 2026).</figcaption></figure>
+</section>
+
+<section>
+<h2 class="col">Going forward</h2>
+<figure><img src="maps/G7_cmip6_projections.png" alt="Projected summer temperature change for GB to 2100 under two scenarios" loading="lazy"><figcaption>NASA NEX-GDDP-CMIP6, 12 models, GB area mean. Modelled, not a forecast.</figcaption></figure>
+<div class="col">
+<p>Glaciers here store water as ice and release it in summer, when downstream demand peaks. A shrinking glacier first releases more water, then less, once there is not enough ice left to sustain melt. This assessment did not model when that "peak water" turning point comes, so no date is given here.</p>
+<p>What the measurements do support:</p>
+<ul class="plain">
+<li><b>The ice buffer is being spent faster.</b> Glacier loss grew about 2.7-fold from 2005–09 to 2015–19 (−0.044 to −0.120 m w.e./yr), and hot summers since then (2022, 2024, 2025) produced the barest glaciers in 26 years of MODIS.</li>
+<li><b>Warming continues.</b> Another 1.3–1.7 °C of summer warming by mid-century is the model median. Observed summers already run up to 2.8 °C above the 2001–20 mean in the hottest years.</li>
+<li><b>Dry years will lean harder on stored water.</b> Seasonal snow has no trend but swings ±20 % between years. When a low-snow year coincides with a hot summer, the ice and groundwater buffer, now visibly depleted, is what remains.</li>
+</ul>
+</div>
+</section>
+
+<section>
+<h2 class="col">Validation</h2>
+<div class="tbl"><table>
+<thead><tr><th>Test</th><th>What it checks</th><th>Result</th><th>Outcome</th></tr></thead>
+<tbody>
+<tr><td>Glacier inventory copy</td><td>Earth Engine RGI 7.0 against the NSIDC download used in earlier GB work</td><td class="num">Shisper 14-08488: 36.83 km², 1997-08-10, surge 3 — identical</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Independent GRACE solutions</td><td>CSR vs GFZ vs JPL, GB annual means</td><td class="num">r = 0.95 (GFZ), 0.97 (JPL); 2024: −16.4 / −17.3 / −16.3 cm</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>2025–26 drop in a second solution</td><td>Does GFZ show the CSR drop?</td><td class="num">Yes in direction; 35 % smaller (2026: −32 vs −50 cm)</td><td><span class="res warn">PARTLY</span></td></tr>
+<tr><td>Spatial pattern</td><td>Is the 2025–26 drop a uniform satellite offset?</td><td class="num">GB −34, Ladakh −30, Pamir −24; W Kunlun −3, C Tibet 0 cm</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Glacier loss vs GRACE, 2010–19</td><td>Does GB storage loss cover the measured glacier loss?</td><td class="num">GRACE −0.33 km³/yr vs glaciers −1.17 Gt/yr; same sign, magnitude off</td><td><span class="res fail">FAIL</span></td></tr>
+<tr><td>Robust to the Siachen sector</td><td>Glacier acceleration with and without that sector</td><td class="num">Monotonic in both; −0.10 / −0.11 m w.e./yr per decade</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Warm summers ↔ bare glaciers</td><td>ERA5-Land JJA temperature vs MODIS August glacier snow, 2001–26</td><td class="num">r = −0.79 (p 1×10⁻⁶); Spearman −0.83</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Snowfall explains 2025–26?</td><td>Winter precipitation and spring snow in the low years</td><td class="num">Winters −5 %; spring snow −14 % (2025), 0 % (2026)</td><td><span class="res warn">NO</span></td></tr>
+<tr><td>Climate models vs observations</td><td>CMIP6 2000–25 summer warming against ERA5-Land</td><td class="num">ERA5 +0.31 °C/decade; models 0.10 to 1.74, median 0.26</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Sentinel-2 record low</td><td>Lowest end-of-summer snow in 2025 or 2026?</td><td class="num">6 of 6 glaciers; significant trend only at Hispar (p 0.03)</td><td><span class="res pass">PASS</span></td></tr>
+<tr><td>Earth Pro imagery dates</td><td>OCR dates against the status bar read by eye</td><td class="num">4 of 4 Shisper dates match after the parser fix</td><td><span class="res pass">PASS</span></td></tr>
+</tbody></table></div>
+<p class="col" style="font-size:14px;color:var(--muted)">The GRACE–glacier mismatch is reported as a failure. GB is only one or two GRACE mascons wide, so the satellite sees a blurred regional signal, while the glacier loss is concentrated in a few large valleys and partly on the GB boundary. GRACE at this scale cannot close GB's glacier budget.</p>
+</section>
+
+<section class="col">
+<h2>Traps checked</h2>
+<ul class="plain">
+<li><b>Single GRACE months.</b> GB swings 65 cm between July and August 2026, which is solution noise at this scale. Only annual means are used.</li>
+<li><b>Sentinel-2 processing offset.</b> Earlier GB melt series read raw Planetary Computer values without the post-2022 offset. This assessment uses the harmonised collection, so the full record sits on one radiometric scale.</li>
+<li><b>Tile strips.</b> Large glaciers straddle Sentinel-2 tiles. All tiles of a date are mosaicked before scoring, and scenes need 90 % in-outline coverage.</li>
+<li><b>Clean ice read as snow.</b> NDSI cannot separate clean ice from snow, so Passu's values are excluded from interpretation.</li>
+<li><b>Old outlines.</b> RGI 7.0 outlines date from 1997–2002. They are drawn as a historical reference, and Shisper's 2026 tongue now runs well beyond its 1997 outline after the 2018–20 surge.</li>
+<li><b>Late-season snow.</b> The newest Hispar scene (16 Oct 2026) is under fresh snow, so melt is measured on scenes nearest 1 September.</li>
+<li><b>Disputed ground.</b> The geoBoundaries GB polygon includes the Siachen sector, administered by India. Totals are given with and without it.</li>
+</ul>
+
+<h2>Arithmetic</h2>
+<div class="arith">Glacier mass   = dh/dt (m/yr) × area (km²) × 10⁶ m²/km² × 850 kg/m³ ÷ 10¹² kg/Gt
+2015–19 (GB)   = −0.141 m/yr × 12,638 km² × 0.85      = −1.51 Gt/yr  (1 Gt = 1 km³ of water)
+2015–19 m w.e. = −0.141 × 0.85                       = −0.120 m w.e./yr
+GRACE volume   = trend (cm/yr) × 10⁻⁵ km/cm × 69,078 km²
+Since 2018     = −3.41 … −5.93 cm/yr × 0.69078       = −2.4 … −4.1 km³/yr</div>
+
+<h2>Sources and tools</h2>
+<ul class="plain">
+<li><b>Glacier outlines:</b> Randolph Glacier Inventory 7.0 (GLIMS/NSIDC 0770), Earth Engine community copy, checked against the NSIDC download.</li>
+<li><b>Glacier change:</b> Hugonnet et al. 2021, Nature 592:726 (ASTER/ArcticDEM elevation time series, 100 m, 2000–2019).</li>
+<li><b>Stored water:</b> NASA-JPL, UT-CSR and GFZ GravIS GRACE/GRACE-FO RL06 solutions.</li>
+<li><b>Snow:</b> MODIS Terra MOD10A1 v6.1, 500 m daily, 2001–2026.</li>
+<li><b>Climate:</b> ECMWF ERA5-Land monthly; NASA NEX-GDDP-CMIP6 (12 models, SSP2-4.5 and SSP5-8.5).</li>
+<li><b>Imagery:</b> Copernicus Sentinel-2 L2A (Copernicus Browser and Earth Engine); Google Earth Pro historical high-resolution imagery (Airbus, Maxar Technologies, CNES), with RGI outlines rendered by Earth from KML.</li>
+<li><b>Terrain and boundaries:</b> Copernicus GLO-30 DEM; geoBoundaries ADM1/ADM2.</li>
+</ul>
+
+<h2>Not yet established</h2>
+<ul class="plain">
+<li>River flow. No discharge data was used, so the effect on Indus flow is inferred, not measured.</li>
+<li>Ice volume and "peak water" timing. These need ice-thickness data and a glacier model, which were not part of this work.</li>
+<li>Glacier change after 2019 for all of GB. Hugonnet ends in 2019; 2020–26 rests on GRACE, MODIS and six Sentinel-2 glaciers.</li>
+</ul>
+</section>
+
+<section class="col" id="downloads">
+<h2>Downloads</h2>
+<ul class="plain">
+<li><a href="downloads/Gilgit_Baltistan_Glaciers_Water_2000_2026_Dinar_Wali.pdf">Presentation (PDF, 20 slides)</a></li>
+<li><a href="downloads/GB_Glaciers_RGI7_RegenX.kmz">Google Earth KMZ</a>: 8,633 RGI 7.0 glacier outlines, the 30 largest named, six key glaciers with saved views</li>
+<li><a href="data/gb_results.json">All computed results (JSON)</a> · <a href="https://github.com/dinarwali4/gilgit-baltistan-glaciers-water">Source code and data on GitHub</a></li>
+</ul>
+</section>
+
+<footer>
+  <div class="credit">RegenX.eco Geospatial Computational Model · Designed and prepared by Mr. Dinar Wali</div>
+  <div>Contact: <a href="mailto:dinar.wali@regenx.eco">dinar.wali@regenx.eco</a></div>
+  <div>Contains modified Copernicus Sentinel data 2017–2026. Google Earth imagery © Airbus, Maxar Technologies, CNES as credited on each image. Assessment date 20 Oct 2026.</div>
+</footer>
+</div>
+
+</body>
+</html>

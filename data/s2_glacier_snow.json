@@ -1,0 +1,548 @@
+{
+ "baltoro": {
+  "2017": {
+   "scene": "2017-09-20",
+   "days_from_sep1": 19,
+   "coverage": 1,
+   "cloud_in_outline": 0.004895486354316072,
+   "snow_frac": 0.813534276630395,
+   "clear_frac": 0.9951045136456842,
+   "snowline_m": 4500,
+   "candidates": 1
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-25",
+   "days_from_sep1": 24,
+   "coverage": 1,
+   "cloud_in_outline": 0.0005725364870078718,
+   "snow_frac": 0.7643884893909446,
+   "clear_frac": 0.9994274635129923,
+   "snowline_m": 4700,
+   "candidates": 13
+  },
+  "2020": {
+   "scene": null,
+   "candidates": 12
+  },
+  "2021": {
+   "scene": "2021-09-14",
+   "days_from_sep1": 13,
+   "coverage": 1,
+   "cloud_in_outline": 0.03100044854921399,
+   "snow_frac": 0.8464907601532962,
+   "clear_frac": 0.9689995514507863,
+   "snowline_m": 4400,
+   "candidates": 12
+  },
+  "2022": {
+   "scene": "2022-09-04",
+   "days_from_sep1": 3,
+   "coverage": 1,
+   "cloud_in_outline": 0.04092323767578359,
+   "snow_frac": 0.7521677016160052,
+   "clear_frac": 0.9590767623242165,
+   "snowline_m": 4700,
+   "candidates": 12
+  },
+  "2023": {
+   "scene": "2023-08-30",
+   "days_from_sep1": -2,
+   "coverage": 1,
+   "cloud_in_outline": 0.00029924989829743917,
+   "snow_frac": 0.7932424732270886,
+   "clear_frac": 0.9997007501017027,
+   "snowline_m": 4700,
+   "candidates": 12
+  },
+  "2024": {
+   "scene": "2024-09-13",
+   "days_from_sep1": 12,
+   "coverage": 1,
+   "cloud_in_outline": 0.06817182452432874,
+   "snow_frac": 0.756691634429947,
+   "clear_frac": 0.9318281754756703,
+   "snowline_m": 4700,
+   "candidates": 12
+  },
+  "2025": {
+   "scene": "2025-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.00021015658814997889,
+   "snow_frac": 0.7168454147600781,
+   "clear_frac": 0.99978984341185,
+   "snowline_m": 4800,
+   "candidates": 16
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.0006933387279458051,
+   "snow_frac": 0.7236576078243308,
+   "clear_frac": 0.9993066612720543,
+   "snowline_m": 4800,
+   "candidates": 15
+  }
+ },
+ "biafo": {
+  "2017": {
+   "scene": "2017-09-20",
+   "days_from_sep1": 19,
+   "coverage": 1,
+   "cloud_in_outline": 0.011976410940297557,
+   "snow_frac": 0.865229922461568,
+   "clear_frac": 0.9880235890597024,
+   "snowline_m": 4100,
+   "candidates": 3
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-20",
+   "days_from_sep1": 19,
+   "coverage": 1,
+   "cloud_in_outline": 0.0013200099361441715,
+   "snow_frac": 0.8510038835411612,
+   "clear_frac": 0.9986799900638558,
+   "snowline_m": 4100,
+   "candidates": 25
+  },
+  "2020": {
+   "scene": "2020-08-25",
+   "days_from_sep1": -7,
+   "coverage": 1,
+   "cloud_in_outline": 6.298522391943831e-05,
+   "snow_frac": 0.8228148137285457,
+   "clear_frac": 0.9999370147760805,
+   "snowline_m": 4300,
+   "candidates": 24
+  },
+  "2021": {
+   "scene": "2021-09-09",
+   "days_from_sep1": 8,
+   "coverage": 1,
+   "cloud_in_outline": 0.051615233342996836,
+   "snow_frac": 0.8562570007331199,
+   "clear_frac": 0.9483847666570023,
+   "snowline_m": 4200,
+   "candidates": 24
+  },
+  "2022": {
+   "scene": "2022-09-04",
+   "days_from_sep1": 3,
+   "coverage": 1,
+   "cloud_in_outline": 5.050823265969933e-05,
+   "snow_frac": 0.8325461390605173,
+   "clear_frac": 0.9999494917673403,
+   "snowline_m": 4200,
+   "candidates": 24
+  },
+  "2023": {
+   "scene": "2023-08-30",
+   "days_from_sep1": -2,
+   "coverage": 1,
+   "cloud_in_outline": 0.0036572376700260657,
+   "snow_frac": 0.8619256961326469,
+   "clear_frac": 0.9963427623299738,
+   "snowline_m": 4200,
+   "candidates": 24
+  },
+  "2024": {
+   "scene": "2024-09-18",
+   "days_from_sep1": 17,
+   "coverage": 1,
+   "cloud_in_outline": 0.02029479099978449,
+   "snow_frac": 0.8428314478113419,
+   "clear_frac": 0.9797052090002154,
+   "snowline_m": 4200,
+   "candidates": 24
+  },
+  "2025": {
+   "scene": "2025-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 1.9079935087916983e-06,
+   "snow_frac": 0.7861412605626916,
+   "clear_frac": 0.9999980920064911,
+   "snowline_m": 4300,
+   "candidates": 27
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.01801259494384718,
+   "snow_frac": 0.7943879322480034,
+   "clear_frac": 0.9819874050561528,
+   "snowline_m": 4400,
+   "candidates": 27
+  }
+ },
+ "hispar": {
+  "2017": {
+   "scene": null,
+   "candidates": 3
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-18",
+   "days_from_sep1": 17,
+   "coverage": 1,
+   "cloud_in_outline": 0.001210496981950419,
+   "snow_frac": 0.7513947295880344,
+   "clear_frac": 0.9987895030180497,
+   "snowline_m": 4300,
+   "candidates": 25
+  },
+  "2020": {
+   "scene": "2020-08-25",
+   "days_from_sep1": -7,
+   "coverage": 1,
+   "cloud_in_outline": 0.00038615235552557595,
+   "snow_frac": 0.6484980659374273,
+   "clear_frac": 0.9996138476444745,
+   "snowline_m": 4500,
+   "candidates": 24
+  },
+  "2021": {
+   "scene": "2021-09-04",
+   "days_from_sep1": 3,
+   "coverage": 1,
+   "cloud_in_outline": 0.06365440014047241,
+   "snow_frac": 0.7585302420621266,
+   "clear_frac": 0.9363455998595275,
+   "snowline_m": 4300,
+   "candidates": 24
+  },
+  "2022": {
+   "scene": "2022-09-02",
+   "days_from_sep1": 1,
+   "coverage": 1,
+   "cloud_in_outline": 0.008526353248311042,
+   "snow_frac": 0.6741551810856268,
+   "clear_frac": 0.991473646751689,
+   "snowline_m": 4500,
+   "candidates": 24
+  },
+  "2023": {
+   "scene": "2023-08-30",
+   "days_from_sep1": -2,
+   "coverage": 1,
+   "cloud_in_outline": 0.0016972143245708295,
+   "snow_frac": 0.7290948951464562,
+   "clear_frac": 0.9983027856754291,
+   "snowline_m": 4300,
+   "candidates": 24
+  },
+  "2024": {
+   "scene": "2024-08-14",
+   "days_from_sep1": -18,
+   "coverage": 1,
+   "cloud_in_outline": 0.0008145839814616531,
+   "snow_frac": 0.6019224710575412,
+   "clear_frac": 0.9991854160185385,
+   "snowline_m": 4500,
+   "candidates": 24
+  },
+  "2025": {
+   "scene": "2025-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.0012828926465349073,
+   "snow_frac": 0.5947912530418076,
+   "clear_frac": 0.9987171073534652,
+   "snowline_m": 4500,
+   "candidates": 27
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.0797968127043746,
+   "snow_frac": 0.5824035513076524,
+   "clear_frac": 0.9202031872956258,
+   "snowline_m": 4500,
+   "candidates": 27
+  }
+ },
+ "batura": {
+  "2017": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-18",
+   "days_from_sep1": 17,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.7091416175467529,
+   "clear_frac": 1,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2020": {
+   "scene": "2020-08-23",
+   "days_from_sep1": -9,
+   "coverage": 1,
+   "cloud_in_outline": 0.0007721191638925128,
+   "snow_frac": 0.6918254539400149,
+   "clear_frac": 0.9992278808361075,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2021": {
+   "scene": "2021-09-17",
+   "days_from_sep1": 16,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.6945523081926258,
+   "clear_frac": 1,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2022": {
+   "scene": "2022-09-02",
+   "days_from_sep1": 1,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.7198749991221145,
+   "clear_frac": 1,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2023": {
+   "scene": "2023-08-28",
+   "days_from_sep1": -4,
+   "coverage": 1,
+   "cloud_in_outline": 0.09880446431226121,
+   "snow_frac": 0.7703401469112106,
+   "clear_frac": 0.901195535687739,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2024": {
+   "scene": "2024-09-06",
+   "days_from_sep1": 5,
+   "coverage": 1,
+   "cloud_in_outline": 0.0022598784046891046,
+   "snow_frac": 0.7016003725356771,
+   "clear_frac": 0.9977401215953109,
+   "snowline_m": 4000,
+   "candidates": 12
+  },
+  "2025": {
+   "scene": "2025-09-01",
+   "days_from_sep1": 0,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.6334500105199131,
+   "clear_frac": 1,
+   "snowline_m": 4200,
+   "candidates": 14
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.6549450342413401,
+   "clear_frac": 1,
+   "snowline_m": 4200,
+   "candidates": 15
+  }
+ },
+ "passu": {
+  "2017": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-18",
+   "days_from_sep1": 17,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.9541438866139842,
+   "clear_frac": 1,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2020": {
+   "scene": "2020-08-23",
+   "days_from_sep1": -9,
+   "coverage": 1,
+   "cloud_in_outline": 0.00046661062459583285,
+   "snow_frac": 0.9428477487518288,
+   "clear_frac": 0.9995333893754041,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2021": {
+   "scene": "2021-09-17",
+   "days_from_sep1": 16,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.9442072761247967,
+   "clear_frac": 1,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2022": {
+   "scene": "2022-09-02",
+   "days_from_sep1": 1,
+   "coverage": 1,
+   "cloud_in_outline": 0.0017731203734641652,
+   "snow_frac": 0.9510070295561048,
+   "clear_frac": 0.9982268796265359,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2023": {
+   "scene": "2023-09-12",
+   "days_from_sep1": 11,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.937689549129707,
+   "clear_frac": 1,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2024": {
+   "scene": "2024-09-06",
+   "days_from_sep1": 5,
+   "coverage": 1,
+   "cloud_in_outline": 0.0247547000498816,
+   "snow_frac": 0.9430781594094483,
+   "clear_frac": 0.9752452999501187,
+   "snowline_m": 2800,
+   "candidates": 12
+  },
+  "2025": {
+   "scene": "2025-09-01",
+   "days_from_sep1": 0,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.9022306183670374,
+   "clear_frac": 1,
+   "snowline_m": 2800,
+   "candidates": 14
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.023282772259980072,
+   "snow_frac": 0.9107539329183351,
+   "clear_frac": 0.97671722774002,
+   "snowline_m": 2900,
+   "candidates": 15
+  }
+ },
+ "shisper": {
+  "2017": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2018": {
+   "scene": null,
+   "candidates": 0
+  },
+  "2019": {
+   "scene": "2019-09-18",
+   "days_from_sep1": 17,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.6168840346101381,
+   "clear_frac": 1,
+   "snowline_m": 4200,
+   "candidates": 12
+  },
+  "2020": {
+   "scene": "2020-08-23",
+   "days_from_sep1": -9,
+   "coverage": 1,
+   "cloud_in_outline": 0.0002765017540002696,
+   "snow_frac": 0.6047940431579085,
+   "clear_frac": 0.9997234982459997,
+   "snowline_m": 4200,
+   "candidates": 12
+  },
+  "2021": {
+   "scene": "2021-09-17",
+   "days_from_sep1": 16,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.5898293540789717,
+   "clear_frac": 1,
+   "snowline_m": 4200,
+   "candidates": 12
+  },
+  "2022": {
+   "scene": "2022-09-02",
+   "days_from_sep1": 1,
+   "coverage": 1,
+   "cloud_in_outline": 0.02079890532401361,
+   "snow_frac": 0.6571114122829911,
+   "clear_frac": 0.9792010946759871,
+   "snowline_m": 4100,
+   "candidates": 12
+  },
+  "2023": {
+   "scene": "2023-09-12",
+   "days_from_sep1": 11,
+   "coverage": 1,
+   "cloud_in_outline": 0.0,
+   "snow_frac": 0.5940664817368757,
+   "clear_frac": 1,
+   "snowline_m": 4200,
+   "candidates": 12
+  },
+  "2024": {
+   "scene": "2024-09-06",
+   "days_from_sep1": 5,
+   "coverage": 1,
+   "cloud_in_outline": 0.022387404821661027,
+   "snow_frac": 0.6122662252193778,
+   "clear_frac": 0.9776125951783394,
+   "snowline_m": 4100,
+   "candidates": 12
+  },
+  "2025": {
+   "scene": "2025-09-01",
+   "days_from_sep1": 0,
+   "coverage": 1,
+   "cloud_in_outline": 0.005538040698718097,
+   "snow_frac": 0.46100776751514916,
+   "clear_frac": 0.9944619593012821,
+   "snowline_m": 4300,
+   "candidates": 14
+  },
+  "2026": {
+   "scene": "2026-08-29",
+   "days_from_sep1": -3,
+   "coverage": 1,
+   "cloud_in_outline": 0.03435210989620722,
+   "snow_frac": 0.5368842017592901,
+   "clear_frac": 0.9656478901037936,
+   "snowline_m": 4200,
+   "candidates": 15
+  }
+ }
+}

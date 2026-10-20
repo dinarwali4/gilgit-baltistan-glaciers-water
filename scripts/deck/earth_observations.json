@@ -1,0 +1,105 @@
+{
+ "shisper": {
+  "title": "Shisper surged far beyond its 1997 outline",
+  "points": [
+   {
+    "b": "2010 and 2016:",
+    "t": "the tongue ends near its 1997 RGI outline (yellow)."
+   },
+   {
+    "b": "2026:",
+    "t": "ice has pushed well past that outline into the main valley \u2014 the 2018\u201320 surge."
+   },
+   {
+    "b": "Why it matters:",
+    "t": "surging ice dammed the valley and caused the Hassanabad outburst floods, even while GB as a whole loses ice."
+   }
+  ],
+  "note": "Shisper's 2000\u20132019 mean dh/dt is +0.10 m/yr because the surge thickened the tongue; 2015\u201319 \u22120.05 m/yr."
+ },
+ "passu": {
+  "title": "Passu: the tongue holds its place but thins",
+  "points": [
+   {
+    "b": "2010, 2016, 2026:",
+    "t": "the clean-ice tongue ends close to its 1997 outline at all three dates; no clear advance or retreat at this zoom."
+   },
+   {
+    "b": "Thinning:",
+    "t": "surface change went from +0.02 m/yr (2000\u201304) to \u22120.42 m/yr (2015\u201319) \u2014 the ice is losing height, not length."
+   },
+   {
+    "b": "Caveat:",
+    "t": "Passu is clean ice, so its Sentinel-2 snow percentages are not interpretable."
+   }
+  ]
+ },
+ "batura": {
+  "title": "Batura: the tongue keeps its length, loses height",
+  "points": [
+   {
+    "b": "1985/2016/2022:",
+    "t": "the debris-covered tongue fills its 1997 outline to the end at every date; the earliest frame is a mixed Landsat and Maxar mosaic."
+   },
+   {
+    "b": "Thinning:",
+    "t": "surface change went from +0.12 m/yr (2000\u201304) to \u22120.26 m/yr (2015\u201319)."
+   },
+   {
+    "b": "Snow:",
+    "t": "end-of-summer snow on the glacier fell from 71 % (2019) to 65 % (2026); 2025 was the lowest."
+   }
+  ]
+ },
+ "hispar": {
+  "title": "Hispar: the fastest thinning of the six",
+  "points": [
+   {
+    "b": "2010/2013/2022:",
+    "t": "the terminus sits near its 1997 outline at all three dates; no clear length change at this scale."
+   },
+   {
+    "b": "Thinning:",
+    "t": "+0.07 m/yr in 2000\u201304 became \u22120.86 m/yr in 2015\u201319, the fastest of the six key glaciers."
+   },
+   {
+    "b": "Snow:",
+    "t": "end-of-summer snow fell from 75 % (2019) to 58 % (2026), the only statistically significant decline (p 0.03)."
+   }
+  ]
+ },
+ "biafo": {
+  "title": "Biafo: a debris-covered snout that hides its losses",
+  "points": [
+   {
+    "b": "2010/2016/2019:",
+    "t": "the rubble-covered terminus sits on its 1997 outline at every date (2019 is Earth's newest high-resolution tile here)."
+   },
+   {
+    "b": "Thinning:",
+    "t": "+0.17 m/yr in 2000\u201304 turned to \u22120.17 m/yr in 2015\u201319: debris cover slows retreat, so loss shows up as lowering."
+   },
+   {
+    "b": "Snow:",
+    "t": "end-of-summer snow on the glacier fell from 87 % (2017) to 79 % (2026), with 2025 the lowest."
+   }
+  ]
+ },
+ "baltoro": {
+  "title": "Baltoro: GB's largest glacier holds near balance",
+  "points": [
+   {
+    "b": "2010/2016/2019:",
+    "t": "the debris-covered snout sits on its 2002 outline at every date (2019 is Earth's newest high-resolution tile here)."
+   },
+   {
+    "b": "Near balance:",
+    "t": "surface change \u22120.06 m/yr (2000\u201304) and \u22120.05 m/yr (2015\u201319) \u2014 the 'Karakoram anomaly' at work."
+   },
+   {
+    "b": "But the snow line is rising:",
+    "t": "end-of-summer snow fell from 81 % (2017) to 72 % (2026); the snow line rose to 4,800 m in 2025\u201326."
+   }
+  ]
+ }
+}
